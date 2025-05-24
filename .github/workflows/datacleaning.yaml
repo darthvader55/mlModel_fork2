@@ -4,7 +4,7 @@ on: workflow_dispatch
 jobs:
         data_pipeline:
                 name: datacleaning_pipeline
-                runs-on: ubuntu-latest
+                runs-on: self-hosted
        
                 steps:
                 - name: setup python
