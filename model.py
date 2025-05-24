@@ -3,10 +3,10 @@ from joblib import dump
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
-df = read_csv("Salary_Data.csv")
+df = read_csv("redfin_housing.csv")
 
-X = df["YearsExperience"].values.reshape(34,1)
-y = df["Salary"]
+X = df["Area (SQFT)"].values.reshape(-1,1)
+y = df["Price (USD)"]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
@@ -14,4 +14,4 @@ mind = LinearRegression()
 
 mind.fit(X_train, y_train)
 
-dump(mind, "SalaryModel.pkl")
+dump(mind, "HousingModel.pkl")
