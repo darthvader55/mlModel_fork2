@@ -35,3 +35,15 @@ jobs:
                   with:
                     name: cleaned-data
                     path: ModelFiles/cleaned_data.csv
+
+
+                - name: Commit cleaned data back to repo
+                  run: |
+                    git config --global user.name "github-actions[bot]"
+                    git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                    git add ModelFiles/cleaned_data.csv
+                    git commit -m "Add/update cleaned_data.csv from datacleaningworkflow" || echo "Nothing to commit"
+                    git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+                  env:
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
