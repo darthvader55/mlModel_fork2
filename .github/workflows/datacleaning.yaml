@@ -1,0 +1,30 @@
+name: datacleaningworkflow
+on: workflow_dispatch
+
+jobs:
+        data_pipeline:
+                name: data_pipeline
+                runs-on: ubuntu-latest
+       
+                steps:
+                - name: setup python
+                  uses: actions/setup-python@v4
+                  with:
+                    python-version: "3.10"
+
+                - name: checkout code
+                  uses: actions/checkout@v4
+
+                - name: install dependencies
+                  run: |
+                    pwd
+                    cd ModelCleaning
+                    pip install -r requirements.txt
+
+                - name: clean_data
+                  run: |
+                    pwd
+                    ls -al
+                    pwd
+                    cd ModelCleaning
+                    python Cleandata.py
