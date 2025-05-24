@@ -20,7 +20,7 @@ df.drop_duplicates(inplace=True)
 df = df.drop(columns=['Address', 'City', 'Date', 'Beds', 'Baths']) 
 
 # Renaming "Price USD" and "Area (SQFT)" columns
-df.rename(columns={'Price USD': 'price', 'Area (SQFT)': 'area'}, inplace=True)
+df.rename(columns={'Price (USD)': 'price', 'Area (SQFT)': 'area'}, inplace=True)
 
 workspace = os.getenv('GITHUB_WORKSPACE')
 
@@ -37,7 +37,7 @@ os.makedirs(model_files_dir, exist_ok=True)
 df.to_csv(output_path, index=False)
 
 print(output_path)
-# Show original data
+# Show cleaned data
 print("Cleaned Data:")
 print(df.head())
 
