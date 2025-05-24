@@ -15,6 +15,12 @@ jobs:
                 - name: checkout code
                   uses: actions/checkout@v4
 
+                - name: Download cleaned data artifact
+                  uses: actions/download-artifact@v3
+                  with:
+                    name: cleaned-data
+                    path: ModelFiles/
+
                 - name: install dependencies
                   run: |
                     pwd
