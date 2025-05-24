@@ -31,7 +31,7 @@ jobs:
                     python datacleaning.py
 
                 - name: uploading cleaned data artifact
-                  uses: actions/upload-artifact@v3
+                  uses: actions/upload-artifact@v4
                   with:
                     name: cleaned-data
                     path: ModelFiles/cleaned_data.csv
