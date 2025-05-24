@@ -3,7 +3,7 @@ on: workflow_dispatch
 
 jobs:
         data_pipeline:
-                name: data_pipeline
+                name: datacleaning_pipeline
                 runs-on: ubuntu-latest
        
                 steps:
