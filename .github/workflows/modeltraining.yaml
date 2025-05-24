@@ -1,4 +1,4 @@
-name: datacleaningworkflow
+name: modeltrainingworkflow
 on: workflow_dispatch
 
 jobs:
@@ -21,10 +21,10 @@ jobs:
                     cd ModelFiles
                     pip install -r requirements.txt
 
-                - name: clean_data
+                - name: train_model
                   run: |
                     pwd
                     ls -al
                     pwd
                     cd ModelFiles
-                    python datacleaning.py
+                    python training.py
