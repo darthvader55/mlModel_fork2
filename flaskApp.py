@@ -24,6 +24,8 @@ def predict_price():
         prediction = model.predict(input_features)
         prediction = np.round(prediction, 2)
 
+        return f"The predicted house price is ${prediction[0]:,.2f}"
+
     except TypeError:
         return "Missing one or more required query parameters: area, bedrooms, baths"
 
