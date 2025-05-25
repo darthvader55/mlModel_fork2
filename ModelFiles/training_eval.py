@@ -6,7 +6,7 @@ from sklearn.metrics import r2_score
 
 df = read_csv("cleaned_data.csv")
 
-X = df["bedrooms", "baths", "area"].values.reshape(-1,1)
+X = df[["bedrooms", "baths", "area"]]
 y = df["price"]
 
 # spliting
