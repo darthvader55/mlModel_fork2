@@ -1,5 +1,12 @@
 name: datacleaningworkflow
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - dev-main
+    paths:
+      - 'ModelFiles/datacleaning.py'
+      - 'ModelFiles/originaldata.csv'
 
 jobs:
         data_pipeline:
