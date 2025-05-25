@@ -27,7 +27,7 @@ def predict_price():
         return f"The predicted house price is ${prediction[0]:,.2f}"
 
     except TypeError:
-        return "Missing one or more required query parameters: area, bedrooms, baths"
+        return "Missing one or more required query parameters: bedrooms, baths, area"
 
     except ValueError:
         return "Invalid input values. Please ensure bedrooms, baths and area are numeric."
