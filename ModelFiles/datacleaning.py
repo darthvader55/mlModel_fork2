@@ -17,10 +17,10 @@ df.dropna(inplace=True)
 df.drop_duplicates(inplace=True)
 
 # Dropping columns not needed eg. address and city
-df = df.drop(columns=['Address', 'City', 'Date', 'Beds', 'Baths']) 
+df = df.drop(columns=['Address', 'City', 'Date']) 
 
 # Renaming "Price USD" and "Area (SQFT)" columns
-df.rename(columns={'Price (USD)': 'price', 'Area (SQFT)': 'area'}, inplace=True)
+df.rename(columns={'Price (USD)': 'price', 'Beds': 'bedrooms', 'Baths': 'baths', 'Area (SQFT)': 'area'}, inplace=True)
 
 workspace = os.getenv('GITHUB_WORKSPACE')
 
