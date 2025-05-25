@@ -9,14 +9,16 @@ df = read_csv("cleaned_data.csv")
 X = df["area"].values.reshape(-1,1)
 y = df["price"]
 
-# splitiing
+# spliting
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # training
+print("Training Model Now..")
 mind = LinearRegression()
 mind.fit(X_train, y_train)
 
 # evaluation
+print("Evaluating Model Now..")
 y_pred = mind.predict(X_test)
 r2 = r2_score(y_test, y_pred)
 
