@@ -1,16 +1,16 @@
 name: Publish image to Docker hub
-on:
-    workflow_dispatch:  
+on: workflow_dispatch
+#    workflow_dispatch:  
 
-    push:
-        branches:
-            - dev-main
-        paths:
-           - 'ModelFiles/Dockerfile'
-           - 'ModelFiles/flaskApp.py'
-           - 'ModelFiles/requirements.txt'
-           - 'ModelFiles/HousingModel.pkl'
-           - 'ModelFiles/training_eval.py'
+#    push:
+#        branches:
+#            - dev-main
+#        paths:
+#           - 'ModelFiles/Dockerfile'
+#           - 'ModelFiles/flaskApp.py'
+#           - 'ModelFiles/requirements.txt'
+#           - 'ModelFiles/HousingModel.pkl'
+#           - 'ModelFiles/training_eval.py'
 
 jobs:
     publish_images:
