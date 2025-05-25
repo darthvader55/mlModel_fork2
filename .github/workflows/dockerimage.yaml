@@ -1,7 +1,7 @@
 name: Publish image to Docker hub
 on:
     workflow_dispatch:  
-    #this will only run if Dockerfile changes after a push
+
     push:
         branches:
             - dev-main
