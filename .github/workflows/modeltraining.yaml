@@ -28,3 +28,14 @@ jobs:
                     pwd
                     cd ModelFiles
                     python training_eval.py
+
+                - name: Commit pickle file back to repo
+                  run: |
+                    git config --global user.name "github-actions[bot]"
+                    git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                    git add ModelFiles/HousingModel.pkl
+                    git commit -m "Add/update HousingModel.pkl from modeltrainingworkflow" || echo "Nothing to commit"
+                    git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+                  env:
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
