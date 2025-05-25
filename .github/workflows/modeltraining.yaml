@@ -27,4 +27,4 @@ jobs:
                     ls -al
                     pwd
                     cd ModelFiles
-                    python training.py
+                    python training_eval.py
