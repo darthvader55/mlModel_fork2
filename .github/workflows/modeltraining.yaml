@@ -1,12 +1,11 @@
 name: modeltrainingworkflow
+
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - dev-main
-    paths:
-      - 'ModelFiles/cleaned_data.csv'
-      - 'ModelFiles/training_eval.py'
+  workflow_run:
+    workflows: ["datacleaningworkflow"]
+    types:
+      - completed
 
 jobs:
         data_pipeline:

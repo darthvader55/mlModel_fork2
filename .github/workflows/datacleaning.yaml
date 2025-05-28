@@ -7,6 +7,10 @@ on:
     paths:
       - 'ModelFiles/datacleaning.py'
       - 'ModelFiles/originaldata.csv'
+      - 'ModelFiles/training_eval.py'
+      - 'ModelFiles/flaskApp.py'
+      - 'ModelFiles/Dockerfile'
+      - 'ModelFiles/requirements.txt'
 
 jobs:
         data_pipeline:
