@@ -1009,3 +1009,6 @@ Price (USD),Address,City,Date,Beds,Baths,Area (SQFT)
 739000,"131 Eliot St #204, Milton, MA 02186",Boston,15/12/2023,2,2,1190
 769000,"19-23 Clapp St #4, Boston, MA 02125",Boston,15/12/2023,2,2,1248
 1390000,"170 Tremont St #1501, Boston, MA 02111",Boston,15/12/2023,3,2,1430
+1255000,"11821 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3,2240
+1258000,"11804 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,2,3.5,2242
+999899,"3814 W 60th St, Los Angeles, CA 90043",Los-Angeles,15/12/2023,4,3,1983
