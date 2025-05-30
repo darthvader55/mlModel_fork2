@@ -9,7 +9,7 @@ model=load("HousingModel.pkl")
 
 @app.route('/')
 def welcome():
-    return "Welcome Everyone To The House Price Predictor Webpage"
+    return "Welcome To The House Price Predictor Webpage"
 
 @app.route('/predict')
 def predict_price():
