@@ -27,9 +27,9 @@ def save_cleaned_data(df, output_path):
     df.to_csv(output_path, index=False)
 
 def main():
-    workspace = os.getenv('GITHUB_WORKSPACE', os.getcwd())
+    workspace = os.getenv('GITHUB_WORKSPACE')
     model_files_dir = os.path.join(workspace, 'ModelFiles')
-    input_path = os.path.join(workspace, 'originaldata.csv')
+    input_path = os.path.join(model_files_dir, 'originaldata.csv')
     output_path = os.path.join(model_files_dir, 'cleaned_data.csv')
 
     # Load original data
