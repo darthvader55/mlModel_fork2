@@ -23,8 +23,8 @@ def save_model(model, output_path):
     dump(model, output_path)
 
 def main():
-    workspace = os.getenv('GITHUB_WORKSPACE')
-    model_files_dir = os.path.join(workspace, 'ModelFiles')
+    # workspace = os.getenv('GITHUB_WORKSPACE')
+    model_files_dir = os.path.join('ModelFiles') # model_files_dir = os.path.join(workspace, 'ModelFiles')
     input_path = os.path.join(model_files_dir, 'cleaned_data.csv')
     output_model_path = os.path.join(model_files_dir, 'HousingModel.pkl')
 
