@@ -19,7 +19,7 @@ jobs:
       - name: SSH into Google VM & Deploy Container
         uses: appleboy/ssh-action@v1.0.0
         with:
-          host: 34.88.242.222 # vm instance external ip
+          host: 34.88.242.221 # vm instance external ip
           username: linusngatia434
           key: ${{ secrets.GCP_SSH_KEY }}
           envs: DOCKER_HUB_USERNAME,DOCKER_HUB_ACCESS_TOKEN
