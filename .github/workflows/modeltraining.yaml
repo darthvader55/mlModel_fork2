@@ -3,7 +3,7 @@ name: modeltrainingworkflow
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["datacleaningworkflow"]
+    workflows: ["Run unit tests for datacleaning"]
     types:
       - completed
 
