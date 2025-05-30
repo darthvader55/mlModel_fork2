@@ -6,7 +6,7 @@ from sklearn.metrics import r2_score
 
 df = read_csv("cleaned_data.csv")
 
-X = df[["bedrooms", "baths", "area"]]
+X = df[["area"]]
 y = df["price"]
 
 # spliting
@@ -25,4 +25,4 @@ r2 = r2_score(y_test, y_pred)
 print(f"Model R² Score on Test Data: {r2:.4f}")
 
 # saving trained model
-dump(model, "HousingModel.pkl")
+dump(model, "HousingModel.pkl")          

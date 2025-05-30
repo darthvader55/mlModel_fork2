@@ -14,18 +14,12 @@ def welcome():
 @app.route('/predict')
 def predict_price():
     try:
-        bedrooms = float(request.args.get('bedrooms'))
-        baths = float(request.args.get('baths'))
         area = float(request.args.get('area'))
 
-        # arranging same way model was trained on
-        # input_features = np.array([[bedrooms, baths, area]])  
-
         # Debugging values
-        print(f"Received values: bedrooms={bedrooms}, baths={baths}, area={area}")
+        print(f"Received values: area={area}")
 
-        # creating a DataFrame matching the feature names used in training
-        input_features = pd.DataFrame([[bedrooms, baths, area]], columns=["bedrooms", "baths", "area"])
+        input_features = pd.DataFrame([[area]], columns=["area"])
 
         print(f"Input DataFrame:\n{input_features}")
 
@@ -35,11 +29,11 @@ def predict_price():
         return f"The predicted house price is ${prediction[0]:,.2f}"
 
     except TypeError:
-        return "Missing one or more required query parameters: bedrooms, baths, area"
+        return "Missing the required query parameters: area"
 
     except ValueError as ve:
         print(f"ValueError: {ve}")
-        return "Invalid input values. Please ensure bedrooms, baths and area are numeric."
+        return "Invalid input values. Please ensure 'area' is numeric."
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
+    app.run(debug=True, host='0.0.0.0')                                        
