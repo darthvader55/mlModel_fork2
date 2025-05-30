@@ -9,7 +9,7 @@ on:
 
 jobs:
   deploy:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' }} # only if previous workflow was successful
     runs-on: ubuntu-latest
 
     steps:

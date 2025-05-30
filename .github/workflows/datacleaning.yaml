@@ -13,7 +13,7 @@ on:
       - 'ModelFiles/requirements.txt'
 
 jobs:
-        data_pipeline:
+        datacleaning:
                 name: datacleaning_pipeline
                 runs-on: ubuntu-latest
        

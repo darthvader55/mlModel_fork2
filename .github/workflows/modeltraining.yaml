@@ -8,7 +8,8 @@ on:
       - completed
 
 jobs:
-        data_pipeline:
+        training_eval:
+                if: ${{ github.event.workflow_run.conclusion == 'success' }} # only if previous workflow was successful
                 name: modeltraining_pipeline
                 runs-on: ubuntu-latest
        
