@@ -1,44 +1,52 @@
 import os
-from pandas import read_csv
-from joblib import dump
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
+import pandas as pd
 
-df = read_csv("originaldata.csv")
+def load_data(filepath):
+    """Load data from CSV."""
+    return pd.read_csv(filepath)
 
-# Show original data
-print("Original Data:")
-print(df.head())
+def clean_dataframe(df):
+    """Remove nulls, duplicates, and drop unneeded columns."""
+    df = df.dropna()
+    df = df.drop_duplicates()
+    df = df.drop(columns=['Address', 'City', 'Date'])
+    return df
 
-# Drop rows with any missing values
-df.dropna(inplace=True)
+def rename_columns(df):
+    """Rename columns for consistency."""
+    return df.rename(columns={
+        'Price (USD)': 'price',
+        'Beds': 'bedrooms',
+        'Baths': 'baths',
+        'Area (SQFT)': 'area'
+    })
 
-# Drop duplicate rows
-df.drop_duplicates(inplace=True)
+def save_cleaned_data(df, output_path):
+    """Save cleaned DataFrame to a CSV file."""
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    df.to_csv(output_path, index=False)
 
-# Dropping columns not needed eg. address and city
-df = df.drop(columns=['Address', 'City', 'Date']) 
+def main():
+    workspace = os.getenv('GITHUB_WORKSPACE', os.getcwd())
+    model_files_dir = os.path.join(workspace, 'ModelFiles')
+    input_path = os.path.join(workspace, 'originaldata.csv')
+    output_path = os.path.join(model_files_dir, 'cleaned_data.csv')
 
-# Renaming "Price USD" and "Area (SQFT)" columns
-df.rename(columns={'Price (USD)': 'price', 'Beds': 'bedrooms', 'Baths': 'baths', 'Area (SQFT)': 'area'}, inplace=True)
+    # Load original data
+    df = load_data(input_path)
+    print("Original Data:")
+    print(df.head())
 
-workspace = os.getenv('GITHUB_WORKSPACE')
+    # Data cleaning steps
+    df = clean_dataframe(df)
+    df = rename_columns(df)
 
-# directory where datacleaning.py is (ModelFiles)
-model_files_dir = os.path.join(workspace, 'ModelFiles')
+    # Save cleaned data
+    save_cleaned_data(df, output_path)
 
-# path for the output file
-output_path = os.path.join(model_files_dir, 'cleaned_data.csv')
+    print("\nCleaned Data:")
+    print(df.head())
+    print(f"\nCleaned data saved to '{output_path}'")
 
-# Create the directory if it doesn't exist
-os.makedirs(model_files_dir, exist_ok=True)
-
-# Save cleaned data
-df.to_csv(output_path, index=False)
-
-print(output_path)
-# Show cleaned data
-print("Cleaned Data:")
-print(df.head())
-
-print("\nCleaned data saved to 'cleaned_data.csv'")
+if __name__ == "__main__":
+    main()
