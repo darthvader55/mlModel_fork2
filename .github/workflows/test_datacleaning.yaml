@@ -1,15 +1,20 @@
-name: Run unit tests for datacleaning
+name: Unit Test for DataCleaning
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["datacleaningworkflow"]
-    types:
-      - completed
+  push:
+    branches:
+      - dev-main
+    paths:
+      - 'ModelFiles/datacleaning.py'
+      - 'ModelFiles/originaldata.csv'
+      - 'ModelFiles/training_eval.py'
+      - 'ModelFiles/flaskApp.py'
+      - 'ModelFiles/Dockerfile'
+      - 'ModelFiles/requirements.txt'
 
 jobs:
-  run-unit-tests:
-    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
+  run-unit-test-on-datacleaning:
     runs-on: ubuntu-latest
 
     steps:

@@ -3,7 +3,7 @@ name: Deploy Docker Image to Google VM
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Publish image to Docker hub"]
+    workflows: ["Build and Publish Image to Docker hub"]
     types:
       - completed
 

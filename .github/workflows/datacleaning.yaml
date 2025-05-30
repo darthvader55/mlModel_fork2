@@ -1,20 +1,16 @@
-name: datacleaningworkflow
+name: DataCleaning Workflow
+
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - dev-main
-    paths:
-      - 'ModelFiles/datacleaning.py'
-      - 'ModelFiles/originaldata.csv'
-      - 'ModelFiles/training_eval.py'
-      - 'ModelFiles/flaskApp.py'
-      - 'ModelFiles/Dockerfile'
-      - 'ModelFiles/requirements.txt'
+  workflow_run:
+    workflows: ["Unit Test for DataCleaning"]
+    types:
+      - completed
 
 jobs:
         datacleaning:
                 name: datacleaning_pipeline
+                if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
                 runs-on: ubuntu-latest
        
                 steps:
