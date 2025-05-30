@@ -1,4 +1,4 @@
-name: DataCleaning Workflow
+name: Data Cleaning Workflow
 
 on:
   workflow_dispatch:

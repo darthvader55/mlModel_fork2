@@ -1,4 +1,4 @@
-name: Model Training Workflow
+name: Model Training_Eval Workflow
 
 on:
   workflow_dispatch:

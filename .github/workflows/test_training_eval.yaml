@@ -3,7 +3,7 @@ name: Unit Test for Model Training
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["DataCleaning Workflow"]
+    workflows: ["Data Cleaning Workflow"]
     types:
       - completed
 
