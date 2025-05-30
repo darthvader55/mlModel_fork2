@@ -16,7 +16,7 @@ def test_clean_dataframe():
     # Check no nulls
     assert cleaned_df.isnull().sum().sum() == 0
 
-    # Check no duplicates
+    # Check that there are no duplicates
     assert len(cleaned_df) == len(cleaned_df.drop_duplicates())
 
     # Check required columns dropped
