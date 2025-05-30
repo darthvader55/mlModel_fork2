@@ -25,7 +25,7 @@ jobs:
           password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
 
       - name: Build image
-        run: docker build . -t vader96/mlops:latest2
+        run: docker build . -t vader96/mlops_linus:latest
 
       - name: Push image to Docker Hub
-        run: docker push vader96/mlops:latest2
+        run: docker push vader96/mlops_linus:latest

@@ -25,10 +25,10 @@ jobs:
           envs: DOCKER_HUB_USERNAME,DOCKER_HUB_ACCESS_TOKEN
           script: |
             echo "$DOCKER_HUB_ACCESS_TOKEN" | docker login -u "$DOCKER_HUB_USERNAME" --password-stdin
-            docker pull vader96/mlops:latest
+            docker pull vader96/mlops_linus:latest
             docker stop mlops_container || true
             docker rm mlops_container || true
-            docker run -d -p 5000:5000 --name mlops_container vader96/mlops:latest
+            docker run -d -p 5000:5000 --name mlops_container vader96/mlops_linus:latest
             docker image prune -f
 
       - name: Confirm Deployment Complete
