@@ -9,7 +9,8 @@ on:
 
 jobs:
   deploy:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }} # only if previous workflow was successful
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
+
     runs-on: ubuntu-latest
 
     steps:
@@ -19,7 +20,7 @@ jobs:
       - name: SSH into Google VM & Deploy Container
         uses: appleboy/ssh-action@v1.0.0
         with:
-          host: 34.88.242.221 # vm instance external ip
+          host: 34.88.242.221 # vm instance external ip 34.88.242.221
           username: linusngatia434
           key: ${{ secrets.GCP_SSH_KEY }}
           envs: DOCKER_HUB_USERNAME,DOCKER_HUB_ACCESS_TOKEN
