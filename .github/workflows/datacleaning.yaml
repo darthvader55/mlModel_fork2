@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - dev-main
+      - prod
     paths:
       - 'ModelFiles/datacleaning.py'
       - 'ModelFiles/originaldata.csv'

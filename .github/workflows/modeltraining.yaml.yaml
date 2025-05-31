@@ -8,6 +8,7 @@ on:
       - completed
     branches:
       - dev-main
+      - prod
       
 
 jobs:
