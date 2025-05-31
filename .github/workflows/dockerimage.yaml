@@ -3,7 +3,7 @@ name: Build and Publish Image to Docker hub
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Model Training_Eval Workflow"]
+    workflows: ["Model TrainingEval Workflow"]
     types:
       - completed
 
