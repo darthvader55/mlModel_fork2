@@ -1,0 +1,69 @@
+name: Build and Publish Image to Docker hub
+
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Model Training_Eval Workflow"]
+    types:
+      - completed
+    branches:
+      - dev-main
+      - prod
+
+
+jobs:
+  publish_images_to_dev: # dev
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Printing Folders
+        run: ls
+
+      - name: Login to Docker
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+
+      - name: Build image
+        run: |
+          cd ModelFiles
+          docker build . -t vader96/mlops_linusngatia:${{ github.ref_name }}
+
+      - name: Push image to Docker Hub
+        run: |
+          cd ModelFiles
+          docker push vader96/mlops_linusngatia:${{ github.ref_name }}
+
+
+  publish_images_to_prod: # prod
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Printing Folders
+        run: ls
+
+      - name: Login to Docker
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_HUB_USERNAME }}
+          password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+
+      - name: Build image
+        run: |
+          cd ModelFiles
+          docker build . -t vader96/mlops_linusngatia:${{ github.ref_name }}
+
+      - name: Push image to Docker Hub
+        run: |
+          cd ModelFiles
+          docker push vader96/mlops_linusngatia:${{ github.ref_name }}

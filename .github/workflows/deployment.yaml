@@ -1,0 +1,57 @@
+name: Deploy Docker Image to Google VM
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Build and Publish Image to Docker hub"]
+    types:
+      - completed
+    branches:
+      - dev-main
+      - prod
+
+jobs:
+  deploy:
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: SSH into Google VM & Deploy Container to DEV SERVER # dev 
+        if: github.ref == 'refs/heads/dev-main'
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: 34.88.253.19 # vm instance external ip 34.88.242.221
+          username: linusngatia434
+          key: ${{ secrets.GCP_SSH_KEY }}
+          envs: DOCKER_HUB_USERNAME,DOCKER_HUB_ACCESS_TOKEN
+          script: |
+            echo "$DOCKER_HUB_ACCESS_TOKEN" | docker login -u "$DOCKER_HUB_USERNAME" --password-stdin
+            docker pull vader96/mlops_linusngatia:dev-main
+            docker stop mlops_container || true
+            docker rm mlops_container || true
+            docker run -d -p 5000:5000 --name mlops_container vader96/mlops_linusngatia:dev-main
+            docker image prune -f
+
+
+      - name: SSH into Google VM & Deploy Container to PROD SERVER # prod
+        if: github.ref == 'refs/heads/prod'
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: 34.88.253.19 # vm instance external ip 34.88.242.221
+          username: linusngatia434
+          key: ${{ secrets.GCP_SSH_KEY }}
+          envs: DOCKER_HUB_USERNAME,DOCKER_HUB_ACCESS_TOKEN
+          script: |
+            echo "$DOCKER_HUB_ACCESS_TOKEN" | docker login -u "$DOCKER_HUB_USERNAME" --password-stdin
+            docker pull vader96/mlops_linusngatia:prod
+            docker stop mlops_container || true
+            docker rm mlops_container || true
+            docker run -d -p 5001:5000 --name mlops_container vader96/mlops_linusngatia:prod
+            docker image prune -f
+
+      - name: Confirm Deployment Complete
+        run: echo "Deployment to VM completed successfully."

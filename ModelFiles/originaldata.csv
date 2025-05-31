@@ -1,0 +1,1014 @@
+Price (USD),Address,City,Date,Beds,Baths,Area (SQFT)
+875000,"6905 Yolanda Ave, Reseda, CA 91335",Los-Angeles,15/12/2023,2,2,1343
+750000,"4821 Bakman Ave #304, North Hollywood, CA 91601",Los-Angeles,15/12/2023,3,2.5,1454
+1699000,"3126 Verdugo Pl, Los Angeles, CA 90065",Los-Angeles,15/12/2023,4,2,2085
+460000,"15050 Victory Blvd #103, Van Nuys, CA 91411",Los-Angeles,15/12/2023,2,2,1193
+857000,"2043 W 65th Pl, Los Angeles, CA 90047",Los-Angeles,15/12/2023,3,2,1635
+880000,"8050 Cherrystone Ave, Panorama City, CA 91402",Los-Angeles,15/12/2023,4,2,1885
+1850000,"13600 Marina Pointe Dr #705, Marina Del Rey, CA 90292",Los-Angeles,15/12/2023,2,2.5,1900
+719950,"13033 Kamloops St, Pacoima, CA 91331",Los-Angeles,15/12/2023,3,2,1112
+1330000,"11815 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3.5,2211
+674900,"10408 Hickory St, Los Angeles, CA 90002",Los-Angeles,15/12/2023,4,2,1400
+1330000,"11809 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3.5,2211
+2300000,"5345 Norwich Ave, Sherman Oaks, CA 91411",Los-Angeles,15/12/2023,4,3.5,3000
+850000,"12871 Osborne St, Pacoima, CA 91331",Los-Angeles,15/12/2023,4,2,1500
+1085000,"14770 SAN FERNANDO MISSION Blvd, Mission Hills (san Fernando), CA 91345",Los-Angeles,15/12/2023,3,2,1030
+1355000,"11821 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3.5,2243
+1358000,"11803 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3.5,2243
+999999,"3815 W 60th St, Los Angeles, CA 90043",Los-Angeles,15/12/2023,4,2,1982
+2199000,"8009 Belton Dr, Los Angeles, CA 90045",Los-Angeles,15/12/2023,4,4,2159
+1850000,"12420 Caswell Ave, Los Angeles, CA 90066",Los-Angeles,15/12/2023,4,2.5,2303
+150000,"8250 Lankershim Blvd, North Hollywood, CA 91605",Los-Angeles,15/12/2023,2,2,750
+655000,"145 W 115th St, Los Angeles, CA 90061",Los-Angeles,15/12/2023,6,3,1762
+775000,"1632 W 60th Pl, Los Angeles, CA 90047",Los-Angeles,15/12/2023,3,2,1324
+849000,"903 S New Hampshire Ave #504, Los Angeles, CA 90006",Los-Angeles,15/12/2023,3,2,1320
+649000,"10141 Samoa Ave #2, Tujunga, CA 91042",Los-Angeles,15/12/2023,2,3,1409
+3000000,"198 S Commonwealth Ave, Los Angeles, CA 90004",Los-Angeles,15/12/2023,12,8,8486
+1999000,"2405 Meadowvale Ave, Los Angeles, CA 90031",Los-Angeles,15/12/2023,8,4,3134
+650000,"817 W 101st St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,4,2,1786
+900000,"9424 S Central Ave, Los Angeles, CA 90002",Los-Angeles,15/12/2023,9,3,2288
+550000,"4750 Templeton St #1212, Los Angeles, CA 90032",Los-Angeles,15/12/2023,2,3,1555
+1050000,"5027 Chester St, Los Angeles, CA 90032",Los-Angeles,15/12/2023,4,3,1338
+850000,"4251 Hooper Ave, Los Angeles, CA 90011",Los-Angeles,15/12/2023,5,2,1967
+1249000,"1334 Pennsylvania Ave, Los Angeles, CA 90033",Los-Angeles,15/12/2023,5,4,2576
+1600000,"44 Rose Ave, Venice, CA 90291",Los-Angeles,15/12/2023,5,5,2366
+699995,"1201 W Florence Ave, Los Angeles, CA 90044",Los-Angeles,15/12/2023,4,2,1760
+599900,"8917 Bandera St, Los Angeles, CA 90002",Los-Angeles,15/12/2023,3,2,880
+700000,"1340 E 23rd St, Los Angeles, CA 90011",Los-Angeles,15/12/2023,7,2.5,1920
+825000,"2120 Lohengrin St, Los Angeles, CA 90047",Los-Angeles,15/12/2023,3,1.5,1448
+1495000,"3151 Oakcrest Dr, Los Angeles, CA 90068",Los-Angeles,15/12/2023,3,3,2240
+699000,"1256 W 64th St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,3,2,1156
+995000,"4314 Marina City Dr #720, Marina Del Rey, CA 90292",Los-Angeles,15/12/2023,2,2,1422
+849000,"12211 Idaho Ave #306, Los Angeles, CA 90025",Los-Angeles,15/12/2023,2,2,1030
+789000,"4316 Marina City Dr Unit 633 CTN, Marina Del Rey, CA 90292",Los-Angeles,15/12/2023,3,2,1722
+390000,"8601 International Ave #162, Canoga Park, CA 91304",Los-Angeles,15/12/2023,2,2,900
+1499000,"825 N Croft Ave #103, Los Angeles, CA 90069",Los-Angeles,15/12/2023,3,2.5,1782
+1426000,"875 Comstock Ave Unit 1A, Los Angeles, CA 90024",Los-Angeles,15/12/2023,2,2,2269
+850000,"13723 Sproule Ave, Sylmar, CA 91342",Los-Angeles,15/12/2023,6,3,1834
+1295000,"4803 Carpenter Ave, Valley Village, CA 91607",Los-Angeles,15/12/2023,4,3.5,1920
+2695000,"10490 Wilshire Blvd #2001, Los Angeles, CA 90024",Los-Angeles,15/12/2023,3,3,2782
+1000000,"17404 Horace St, Granada Hills, CA 91344",Los-Angeles,15/12/2023,3,2,1655
+885990,"1336 W Plaza Del Amo, Torrance, CA 90501",Los-Angeles,15/12/2023,3,2.5,1836
+1895000,"14007 E La Maida St, Sherman Oaks, CA 91423",Los-Angeles,15/12/2023,4,3.5,1950
+929000,"22253 Criswell St, Woodland Hills, CA 91303",Los-Angeles,15/12/2023,3,2,1400
+982360,"1626 W Hornet Dr, San Pedro, CA 90732",Los-Angeles,15/12/2023,4,3.5,1873
+4388888,"1 W Century Dr Unit 15D, Los Angeles, CA 90067",Los-Angeles,15/12/2023,2,3,2500
+1099000,"17622 Bromley St, Encino, CA 91316",Los-Angeles,15/12/2023,3,3,1620
+5500000,"10114 Empyrean Way #302, Los Angeles, CA 90067",Los-Angeles,15/12/2023,3,5,3230
+1749000,"7514 W 88th Pl, Los Angeles, CA 90045",Los-Angeles,15/12/2023,3,2,2268
+975000,"7862 W Manchester Ave, Playa Del Rey, CA 90293",Los-Angeles,15/12/2023,2,3,1620
+799000,"1228 N La Cienega Blvd #104, West Hollywood, CA 90069",Los-Angeles,15/12/2023,2,2,1204
+714900,"4200 Via Arbolada #122, Los Angeles, CA 90042",Los-Angeles,15/12/2023,2,2,1349
+739000,"750 W 139th St, Gardena, CA 90247",Los-Angeles,15/12/2023,3,2,1063
+1199999,"3517 S Pacific Ave, San Pedro, CA 90731",Los-Angeles,15/12/2023,4,3,2967
+1199000,"3933 S Bronson Ave, Los Angeles, CA 90008",Los-Angeles,15/12/2023,3,3,2016
+2000000,"3435 Tilden Ave, Los Angeles, CA 90034",Los-Angeles,15/12/2023,4,2,1925
+630000,"1644 W 106th St, Los Angeles, CA 90047",Los-Angeles,15/12/2023,3,2,1360
+3950000,"11344 Hatteras St, North Hollywood, CA 91601",Los-Angeles,15/12/2023,19,17,7700
+1550000,"1630 W 204th St, Torrance, CA 90501",Los-Angeles,15/12/2023,19,10,2802
+875000,"3921 Don Diablo Dr, Los Angeles, CA 90008",Los-Angeles,15/12/2023,2,2,1805
+615000,"1745 Camino Palmero St #104, Los Angeles, CA 90046",Los-Angeles,15/12/2023,2,2,1129
+825000,"2535 W 5th St, Los Angeles, CA 90057",Los-Angeles,15/12/2023,2,2,1095
+1250000,"2527 W 5th St, Los Angeles, CA 90057",Los-Angeles,15/12/2023,4,4,3390
+780000,"14116 Terra Bella St, Arleta, CA 91331",Los-Angeles,15/12/2023,3,2,1221
+850000,"8115 Darby Ave, Reseda, CA 91335",Los-Angeles,15/12/2023,3,2,1488
+2300000,"201 Ocean Ave Unit 1104P, Santa Monica, CA 90402",Los-Angeles,15/12/2023,2,3,1554
+1175000,"1110 N Avenue 54, Los Angeles, CA 90042",Los-Angeles,15/12/2023,2,2,1048
+799000,"1230 W 88th St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,5,2,1378
+1375000,"12918 Bloomfield St #2, Studio City, CA 91604",Los-Angeles,15/12/2023,3,2.5,1867
+2190000,"24 20th Ave, Venice, CA 90291",Los-Angeles,15/12/2023,3,3.5,1755
+2399000,"3608 Maplewood Ave, Los Angeles, CA 90066",Los-Angeles,15/12/2023,4,2,2083
+749000,"1225 E VERNON Ave, Los Angeles, CA 90011",Los-Angeles,15/12/2023,4,3,1387
+798000,"9120 Dalton Ave, Los Angeles, CA 90047",Los-Angeles,15/12/2023,5,2,1988
+705000,"9846 Monogram Ave, Northridge, CA 91343",Los-Angeles,15/12/2023,4,2,1371
+2650000,"609 Broadway St, Venice, CA 90291",Los-Angeles,15/12/2023,4,3.5,3218
+2525000,"611 Broadway St, Venice, CA 90291",Los-Angeles,15/12/2023,3,2.5,2916
+5449000,"960 Indiana Ave, Venice, CA 90291",Los-Angeles,15/12/2023,6,6.5,5009
+4500000,"6708 Willoughby Ave, Los Angeles, CA 90038",Los-Angeles,15/12/2023,10,9,8784
+750000,"13111 Corcoran St, San Fernando, CA 91340",Los-Angeles,15/12/2023,3,2,1372
+1175000,"6261 Beeman Ave, North Hollywood, CA 91606",Los-Angeles,15/12/2023,3,3,1677
+615000,"10307 Stanford Ave, Los Angeles, CA 90002",Los-Angeles,15/12/2023,4,2,1390
+675000,"2275 W 25th St W #171, San Pedro, CA 90732",Los-Angeles,15/12/2023,2,2,1464
+875000,"7761 Loma Verde Ave, Canoga Park, CA 91304",Los-Angeles,15/12/2023,3,2,1216
+934900,"14341 Martha St, Van Nuys, CA 91401",Los-Angeles,15/12/2023,4,2,1667
+1299900,"6254 Tampa Ave, Tarzana, CA 91335",Los-Angeles,15/12/2023,4,3,2138
+999000,"19918 Acre St, Northridge, CA 91324",Los-Angeles,15/12/2023,4,2,1875
+1000000,"2410 8th Ave, Los Angeles, CA 90018",Los-Angeles,15/12/2023,5,3,2531
+1100000,"126 N Western Ave, San Pedro, CA 90732",Los-Angeles,15/12/2023,9,8,4711
+769000,"10567 Vassar Ave, Chatsworth, CA 91311",Los-Angeles,15/12/2023,3,2,1440
+1675000,"10126 Empyrean Way #304, Los Angeles, CA 90067",Los-Angeles,15/12/2023,2,2.5,1739
+5300000,"2463 Sawtelle Blvd, Los Angeles, CA 90064",Los-Angeles,15/12/2023,14,17,8952
+875000,"7250 Franklin Ave #409, Los Angeles, CA 90046",Los-Angeles,15/12/2023,2,2,1393
+849900,"8828 Pershing Dr #320, Playa Del Rey, CA 90293",Los-Angeles,15/12/2023,2,2,1700
+1429000,"4611 Coolidge Ave, Culver City, CA 90230",Los-Angeles,15/12/2023,3,2,1212
+765000,"14655 W Sara Ln, Panorama City, CA 91402",Los-Angeles,15/12/2023,3,3,1739
+2750000,"2314 Clement Ave, Venice, CA 90291",Los-Angeles,15/12/2023,3,3,2286
+824999,"11407 Gaviota Ave, Granada Hills, CA 91344",Los-Angeles,15/12/2023,3,2,1228
+1649000,"20542 Hartland St, Winnetka, CA 91306",Los-Angeles,15/12/2023,10,6,4800
+610000,"5420 Sylmar Ave #213, Sherman Oaks, CA 91401",Los-Angeles,15/12/2023,2,2,1172
+1199900,"17406 Hiawatha St, Granada Hills, CA 91344",Los-Angeles,15/12/2023,4,3,2446
+1395000,"6220 Pacific Ave #303, Playa Del Rey, CA 90293",Los-Angeles,15/12/2023,2,2,1359
+1498000,"6014 Farmdale Ave, North Hollywood, CA 91606",Los-Angeles,15/12/2023,6,4.5,2370
+899999,"19522 Eagle Ridge Ln, Northridge, CA 91326",Los-Angeles,15/12/2023,3,3,1929
+1374900,"8161 Encino Ave, Northridge, CA 91325",Los-Angeles,15/12/2023,4,3,1708
+1699000,"2120 N Beverly Glen Blvd, Los Angeles, CA 90077",Los-Angeles,15/12/2023,2,2,2008
+2699000,"803 N Kingsley Dr, Los Angeles, CA 90029",Los-Angeles,15/12/2023,14,16,5390
+795000,"9100 S Hobart Blvd, Los Angeles, CA 90047",Los-Angeles,15/12/2023,3,2,1260
+1699000,"3853 Tilden Ave, Culver City, CA 90232",Los-Angeles,15/12/2023,5,4,2593
+1449000,"19120 Salt Lake Pl, Porter Ranch, CA 91326",Los-Angeles,15/12/2023,5,3,2485
+719900,"17957 Hemmingway St, Reseda, CA 91335",Los-Angeles,15/12/2023,4,2,1200
+1295000,"1050 N Edinburgh Ave #112, West Hollywood, CA 90046",Los-Angeles,15/12/2023,3,3.5,1920
+1695000,"1350 1/2 N Fairfax Ave, West Hollywood, CA 90046",Los-Angeles,15/12/2023,3,3.5,2105
+1189000,"1123 S Shenandoah St #203, Los Angeles, CA 90035",Los-Angeles,15/12/2023,3,2.5,1453
+4999999,"12752 Rose Ave, Los Angeles, CA 90066",Los-Angeles,15/12/2023,7,7.5,4005
+1395000,"19114 Jovan St, Tarzana, CA 91335",Los-Angeles,15/12/2023,4,3,1898
+850000,"6614 Easton St, Los Angeles, CA 90022",Los-Angeles,15/12/2023,3,3,1507
+2375000,"1846 N Wilton Pl, Los Angeles, CA 90028",Los-Angeles,15/12/2023,8,4.5,3150
+549000,"21333 Lassen St Unit 2D, Chatsworth, CA 91311",Los-Angeles,15/12/2023,2,2,1149
+689900,"7114--7116 Miramonte Blvd, Los Angeles, CA 90001",Los-Angeles,15/12/2023,3,3,1164
+1380000,"1630 W 206th St, Torrance, CA 90501",Los-Angeles,15/12/2023,6,3,2180
+1675000,"1522 N Hoover St, Los Angeles, CA 90027",Los-Angeles,15/12/2023,3,3,1229
+1349000,"1351 N Mccadden Pl, Los Angeles, CA 90028",Los-Angeles,15/12/2023,4,2,1742
+1349900,"12721 Greene Ave, Los Angeles, CA 90066",Los-Angeles,15/12/2023,3,2,1996
+849900,"9130 S Wilton Pl, Los Angeles, CA 90047",Los-Angeles,15/12/2023,4,2,1587
+1329000,"5831 Seawalk Dr #231, Playa Vista, CA 90094",Los-Angeles,15/12/2023,2,2.5,1805
+1950000,"10430 Wilshire Blvd #806, Los Angeles, CA 90024",Los-Angeles,15/12/2023,2,2.5,2324
+965000,"654 N Virgil Ave #313, Los Angeles, CA 90004",Los-Angeles,15/12/2023,3,2.5,1740
+899000,"940 W 6th St, San Pedro, CA 90731",Los-Angeles,15/12/2023,3,2,1786
+799000,"10650 El Dorado Ave, Pacoima, CA 91331",Los-Angeles,15/12/2023,5,3,1460
+1190000,"10327 Missouri Ave #305, Los Angeles, CA 90025",Los-Angeles,15/12/2023,2,2.5,1669
+999500,"857 W 85th St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,6,4,2516
+899000,"871 Crenshaw Blvd #103, Los Angeles, CA 90005",Los-Angeles,15/12/2023,3,2,1530
+999500,"635 W 82nd St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,9,4,3116
+639000,"1236 Exposition Blvd, Los Angeles, CA 90007",Los-Angeles,15/12/2023,2,4,1000
+719000,"1363 W 38th St, Los Angeles, CA 90062",Los-Angeles,15/12/2023,5,3,1768
+850000,"10429 Haas Ave, Los Angeles, CA 90047",Los-Angeles,15/12/2023,4,2,1678
+988000,"725 Coronel St, Los Angeles, CA 90012",Los-Angeles,15/12/2023,6,3,1540
+429000,"7301 Lennox Ave Unit B3, Van Nuys, CA 91405",Los-Angeles,15/12/2023,2,2,1079
+23350000,"1200 Club View Dr #20, Los Angeles, CA 90024",Los-Angeles,15/12/2023,4,6,8215
+2750000,"1200 Club View Dr Unit 4NW, Los Angeles, CA 90024",Los-Angeles,15/12/2023,2,2,1830
+2599000,"12541 Mitchell Ave, Los Angeles, CA 90066",Los-Angeles,15/12/2023,4,4.5,3115
+1549000,"3476 Troy Dr, Los Angeles, CA 90068",Los-Angeles,15/12/2023,3,2,1378
+982888,"4626 Verdugo Rd, Los Angeles, CA 90065",Los-Angeles,15/12/2023,6,3,2343
+499000,"22100 Burbank Blvd Unit 201A, Woodland Hills, CA 91367",Los-Angeles,15/12/2023,2,2,883
+399950,"7045 Woodley Ave #113, Lake Balboa, CA 91406",Los-Angeles,15/12/2023,2,2,916
+899000,"470 W 15th St, San Pedro, CA 90731",Los-Angeles,15/12/2023,4,3,2088
+749000,"8505 Gulana Ave #4101, Playa Del Rey, CA 90293",Los-Angeles,15/12/2023,2,2,1004
+5495000,"8126 W 4th St, Los Angeles, CA 90048",Los-Angeles,15/12/2023,5,5.5,5520
+1970000,"1938 Holmby Ave, Los Angeles, CA 90025",Los-Angeles,15/12/2023,4,4,2490
+1130000,"12609 Solvang St, North Hollywood, CA 91605",Los-Angeles,15/12/2023,3,3,1800
+1199000,"931 S Palos Verdes St, San Pedro, CA 90731",Los-Angeles,15/12/2023,6,4,2438
+2575000,"4719 Tobias Ave, Sherman Oaks, CA 91403",Los-Angeles,15/12/2023,5,5.5,3462
+500000,"8740 Willis Ave #7, Panorama City, CA 91402",Los-Angeles,15/12/2023,3,2.5,1446
+5995000,"1050 Iliff St, Pacific Palisades, CA 90272",Los-Angeles,15/12/2023,5,5.5,4084
+2995000,"13425 Java Dr, Beverly Hills, CA 90210",Los-Angeles,15/12/2023,3,3,3069
+1295000,"1135 Elden Ave, Los Angeles, CA 90006",Los-Angeles,15/12/2023,4,3,2333
+898888,"16108 Napa St, North Hills, CA 91343",Los-Angeles,15/12/2023,3,2,1876
+1099000,"4706 Sanford Dr, Culver City, CA 90230",Los-Angeles,15/12/2023,3,2,1368
+2095000,"921 S Mansfield Ave, Los Angeles, CA 90036",Los-Angeles,15/12/2023,6,4,3960
+1729000,"1662 S Stanley Ave, Los Angeles, CA 90019",Los-Angeles,15/12/2023,3,3,1714
+1499000,"704 N Dillon St, Los Angeles, CA 90026",Los-Angeles,15/12/2023,5,2,1961
+1575000,"3003 Vineyard Ave, Los Angeles, CA 90016",Los-Angeles,15/12/2023,7,7,2661
+899000,"8543 Oso Ave, Winnetka, CA 91306",Los-Angeles,15/12/2023,3,2,1435
+650000,"10969 Grape St, Los Angeles, CA 90059",Los-Angeles,15/12/2023,5,2,1254
+1499000,"2402 Malabar St, Los Angeles, CA 90033",Los-Angeles,15/12/2023,12,8,6944
+729000,"22753 Gault St, West Hills, CA 91307",Los-Angeles,15/12/2023,4,2,1896
+2350000,"6828 Miramonte Blvd, Los Angeles, CA 90001",Los-Angeles,15/12/2023,20,11,6153
+875000,"1615 Bardale Ave, San Pedro, CA 90731",Los-Angeles,15/12/2023,4,2,1430
+3700000,"20144 W Marlow Way, Porter Ranch, CA 91326",Los-Angeles,15/12/2023,5,5.5,4998
+990000,"1770 W 245th St, Torrance, CA 90501",Los-Angeles,15/12/2023,3,2,1278
+3880000,"12948 Woodbridge St, Studio City, CA 91604",Los-Angeles,15/12/2023,5,5.5,4700
+1725000,"12059 Juniette St, Culver City, CA 90230",Los-Angeles,15/12/2023,3,2,1371
+395000,"1670 E 43rd St, Los Angeles, CA 90011",Los-Angeles,15/12/2023,2,2,748
+720000,"1348 E 21st St, Los Angeles, CA 90011",Los-Angeles,15/12/2023,3,3,2240
+1150000,"1211 S Shenandoah St #203, Los Angeles, CA 90035",Los-Angeles,15/12/2023,2,2.5,1378
+1799000,"2022 Glendon Ave, Los Angeles, CA 90025",Los-Angeles,15/12/2023,3,2,1455
+895000,"13207 W Lumina Way, Van Nuys, CA 91401",Los-Angeles,15/12/2023,3,4,1930
+1795000,"5454 Hermitage Ave, Valley Village, CA 91607",Los-Angeles,15/12/2023,8,4,3990
+1595000,"2437 Houston St, Los Angeles, CA 90033",Los-Angeles,15/12/2023,8,6,3170
+1595000,"926 E 57th St, Los Angeles, CA 90011",Los-Angeles,15/12/2023,11,6,3823
+3080000,"11732 W Abbey Ln, Porter Ranch, CA 91326",Los-Angeles,15/12/2023,5,5.5,5076
+2495000,"2460 Achilles Dr, Los Angeles, CA 90046",Los-Angeles,15/12/2023,5,3,3344
+1265000,"128 N Swall Dr #301, Los Angeles, CA 90048",Los-Angeles,15/12/2023,2,3,1585
+4349000,"5136 Nagle Ave, Sherman Oaks, CA 91423",Los-Angeles,15/12/2023,6,7,5712
+879000,"13331 Wentworth St, Arleta, CA 91331",Los-Angeles,15/12/2023,4,2,1354
+719500,"15021 Core Ln, North Hills, CA 91343",Los-Angeles,15/12/2023,4,3,1789
+1059999,"21007 Covello St, Canoga Park, CA 91303",Los-Angeles,15/12/2023,4,3,1392
+850000,"10515 Chandler Blvd, North Hollywood, CA 91601",Los-Angeles,15/12/2023,3,2.5,1496
+850000,"969 Hilgard Ave #607, Los Angeles, CA 90024",Los-Angeles,15/12/2023,2,1.5,1029
+1099000,"100 S Doheny Dr #220, Los Angeles, CA 90048",Los-Angeles,15/12/2023,2,2,1197
+3995000,"13044 Hartsook St, Sherman Oaks, CA 91423",Los-Angeles,15/12/2023,5,5.5,3900
+1798000,"3452 Westmount Ave, View Park, CA 90043",Los-Angeles,15/12/2023,3,3,3029
+1400000,"865 Comstock Ave Unit 9F, Los Angeles, CA 90024",Los-Angeles,15/12/2023,2,2,1402
+2695000,"1516 N Beverly Glen Blvd, Los Angeles, CA 90077",Los-Angeles,15/12/2023,3,4.5,4020
+719000,"1735 W 37th Pl, Los Angeles, CA 90018",Los-Angeles,15/12/2023,3,2,1120
+1799995,"13418-13416 Crowley, Panorama City, CA 91402",Los-Angeles,15/12/2023,6,5,3750
+899000,"4263 W 59th St, Los Angeles, CA 90043",Los-Angeles,15/12/2023,3,2,1422
+749999,"7615 N Patriot Way, Van Nuys, CA 91405",Los-Angeles,15/12/2023,4,3,1574
+139990,"12401 Filmore #210, Sylmar, CA 91342",Los-Angeles,15/12/2023,2,2,960
+1299000,"7171 Pacific View Dr, Los Angeles, CA 90068",Los-Angeles,15/12/2023,2,2,1180
+1129000,"9607 Crebs Ave, Northridge, CA 91324",Los-Angeles,15/12/2023,4,2,1906
+875000,"11786 Gruen St, Sylmar, CA 91342",Los-Angeles,15/12/2023,4,2,1600
+849000,"645 W 9th St #727, Los Angeles, CA 90015",Los-Angeles,15/12/2023,2,2,1220
+850000,"974 W 5th St, San Pedro, CA 90731",Los-Angeles,15/12/2023,4,2,1648
+1060000,"1607 E Robidoux St, Wilmington, CA 90744",Los-Angeles,15/12/2023,7,4,2300
+705999,"833 W 104th St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,3,2,1448
+949000,"3017 S Pacific Ave, San Pedro, CA 90731",Los-Angeles,15/12/2023,5,3,5001
+989990,"2024 W 30th St, Los Angeles, CA 90018",Los-Angeles,15/12/2023,3,2,1430
+1300000,"3877 Denker Ave, Los Angeles, CA 90062",Los-Angeles,15/12/2023,9,6,3770
+1399000,"5651 Radford Ave, Valley Village, CA 91607",Los-Angeles,15/12/2023,4,3,1574
+1325000,"3704 Grayburn Ave, Los Angeles, CA 90018",Los-Angeles,15/12/2023,3,2,1443
+1349000,"22666 Cavalier St, Woodland Hills, CA 91364",Los-Angeles,15/12/2023,3,3,2128
+949888,"3565 Arlington Ave, Los Angeles, CA 90018",Los-Angeles,15/12/2023,4,2,1626
+725000,"11423 Freedom Ln, Pacoima, CA 91331",Los-Angeles,15/12/2023,4,2.5,1575
+925000,"1067 W 19th St, San Pedro, CA 90731",Los-Angeles,15/12/2023,2,2,1147
+1150000,"15809 Bassett St, Van Nuys, CA 91406",Los-Angeles,15/12/2023,4,2,1900
+499999,"4239 Via Arbolada #201, Los Angeles, CA 90042",Los-Angeles,15/12/2023,2,2,1023
+2695000,"611 Mildred Ave, Venice, CA 90291",Los-Angeles,15/12/2023,4,3.5,2878
+649900,"218 E 104th St, Los Angeles, CA 90003",Los-Angeles,15/12/2023,4,2,1400
+1799000,"12325 Addison St, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,2,1929
+1190000,"20656 W Chestnut Cir, Porter Ranch, CA 91326",Los-Angeles,15/12/2023,4,3,2365
+569000,"1031 W 121st St, Los Angeles, CA 90044",Los-Angeles,15/12/2023,2,2,780
+900000,"1647 E 92nd St, Los Angeles, CA 90002",Los-Angeles,15/12/2023,2,3,1872
+829000,"19228 Napa St, Northridge, CA 91324",Los-Angeles,15/12/2023,3,2,1703
+2199000,"4140 Bakman Ave, Studio City, CA 91602",Los-Angeles,15/12/2023,4,3,2279
+850000,"8300 Manitoba St #229, Playa Del Rey, CA 90293",Los-Angeles,15/12/2023,2,2,960
+519000,"4120 W 64th St, Inglewood, CA 90302",Los-Angeles,15/12/2023,2,2,804
+1549000,"10450 Wilshire Blvd Unit 2A, Los Angeles, CA 90024",Los-Angeles,15/12/2023,3,3,2082
+599900,"434 Clela Ave, Los Angeles, CA 90022",Los-Angeles,15/12/2023,3,2,1373
+4175000,"4258 Levitt Ln, Sherman Oaks, CA 91403",Los-Angeles,15/12/2023,5,5,4711
+999999,"2214 W Temple St #4, Los Angeles, CA 90026",Los-Angeles,15/12/2023,6,4,3836
+1100000,"1162 Watson Ave, Wilmington, CA 90744",Los-Angeles,15/12/2023,6,6,2394
+5500000,"112 E 35th St, New York, NY 10016",New-York,15/12/2023,6,6,5800
+1100000,"1135 Rogers Ave #1, Brooklyn, NY 11226",New-York,15/12/2023,7,4,2760
+5850000,"322 W 57th St Unit 54-T, New York, NY 10019",New-York,15/12/2023,4,4,3417
+9995000,"15 W 63rd St Unit 23B, New York, NY 10023",New-York,15/12/2023,4,4.5,2907
+18000000,"555 W End Ave Unit The Solarium, New York, NY 10024",New-York,15/12/2023,3,3.5,3420
+9900000,"555 W End Ave Unit The library, New York, NY 10024",New-York,15/12/2023,5,5.5,3463
+3250000,"145 Central Park N Unit TH-1, New York, NY 10026",New-York,15/12/2023,4,3.5,2238
+1485000,"441 E 57th St #2, New York, NY 10022",New-York,15/12/2023,2,2,1645
+500000,"40 E 80th St Unit 25A, New York, NY 10075",New-York,15/12/2023,3,3,2000
+775000,"1030 Summit Ave, Bronx, NY 10452",New-York,15/12/2023,7,2,2808
+2500000,"910 5th Ave Unit 3A, New York, NY 10021",New-York,15/12/2023,2,2.5,2200
+22500000,"36 Bleecker St Unit PHA, New York, NY 10012",New-York,15/12/2023,5,5,4480
+2150000,"153 Jaffrey St, Brooklyn, NY 11235",New-York,15/12/2023,4,3.5,2028
+2150000,"90 Riverside Dr Unit 1B, New York, NY 10024",New-York,15/12/2023,4,3,2500
+1499999,"303 E 57th St Unit 34G, New York, NY 10022",New-York,15/12/2023,3,3.5,3300
+634900,"49 Ironwood St, Staten Island, NY 10308",New-York,15/12/2023,3,1.5,2200
+2225000,"303 E 33rd St Unit 10E, New York, NY 10016",New-York,15/12/2023,2,2,1420
+725000,"134-16 35th Ave Unit 11E, New York, NY 11354",New-York,15/12/2023,2,2,681
+710000,"134-16 35th Ave Unit 10E, New York, NY 11354",New-York,15/12/2023,2,2,681
+762509,"134-16 35th Ave Unit 10D, New York, NY 11354",New-York,15/12/2023,2,2,710
+771770,"134-16 35th Ave Unit 11D, New York, NY 11354",New-York,15/12/2023,2,2,710
+1250000,"2008 E 52nd St, Brooklyn, NY 11234",New-York,15/12/2023,5,2.5,2108
+3375000,"100 11th Ave Unit 14C, New York, NY 10011",New-York,15/12/2023,2,2.5,1760
+1450000,"25 Broad St Unit 14J, New York, NY 10004",New-York,15/12/2023,2,2,1183
+849900,"8629 Bay Pkwy Unit 2F, Brooklyn, NY 11214",New-York,15/12/2023,2,2,991
+1325000,"2215 E 72nd St, Brooklyn, NY 11234",New-York,15/12/2023,4,3,2200
+539000,"112-02 Northern Blvd Ph -G, Flushing, NY 11368",New-York,15/12/2023,2,2,1211
+599888,"114-16 149th St, Jamaica, NY 11436",New-York,15/12/2023,2,2.5,1914
+605555,"1466 Stickney Pl, Bronx, NY 10469",New-York,15/12/2023,3,2,1690
+499000,"112-02 Northern Blvd Unit 5F, Flushing, NY 11368",New-York,15/12/2023,2,2,1185
+639000,"72-31 Metropolitan Ave Unit 3A, Middle Village, NY 11379",New-York,15/12/2023,2,2,922
+1695000,"175 Jackson St Ph 4D, Brooklyn, NY 11211",New-York,15/12/2023,2,2.5,1117
+748888,"40 Lander Ave, Staten Island, NY 10314",New-York,15/12/2023,2,1.5,1260
+779000,"193-06 122nd Ave, Jamaica, NY 11413",New-York,15/12/2023,5,3,2000
+1195000,"11 Washington Ter, New York, NY 10033",New-York,15/12/2023,5,3,2040
+2500000,"350 W 42nd St Unit PHD, New York, NY 10036",New-York,15/12/2023,2,2,1250
+719000,"76-48 268th St, New Hyde Park, NY 11040",New-York,15/12/2023,3,2,1195
+649000,"9318 245th St, Floral Park, NY 11001",New-York,15/12/2023,3,1.5,1325
+659000,"147-20 35th Ave Unit 5A, Flushing, NY 11354",New-York,15/12/2023,2,2,840
+649000,"1954 E 34th St, Marine Park, NY 11234",New-York,15/12/2023,2,1.5,1080
+599000,"108-38 164th Pl, Jamaica, NY 11433",New-York,15/12/2023,5,2,2600
+7495000,"160 Central Park S #3401, New York, NY 10019",New-York,15/12/2023,2,2.5,1800
+1090000,"17-25 Menahan St, Ridgewood, NY 11385",New-York,15/12/2023,12,6,4875
+1490000,"217 Bay 41 St, Brooklyn, NY 11214",New-York,15/12/2023,7,3,2280
+848000,"141-15 Cherry Ave Unit 6E, Flushing, NY 11355",New-York,15/12/2023,2,2,741
+1599000,"224 Bay St, Staten  Island, NY 10301",New-York,15/12/2023,8,4,6160
+849762,"141-15 Cherry Ave Unit 4E, Flushing, NY 11355",New-York,15/12/2023,2,2,741
+788000,"104-33 88th Ave, Richmond Hill, NY 11418",New-York,15/12/2023,4,2,1566
+688000,"362 E 198th St, Bronx, NY 10458",New-York,15/12/2023,6,4,2200
+17500000,"140 Franklin St Unit 2B, New York, NY 10013",New-York,15/12/2023,7,4.5,6300
+838000,"141-15 Cherry Ave Unit 3E, Flushing, NY 11355",New-York,15/12/2023,2,2,741
+2795000,"200 E 66th St Unit D1701, New York, NY 10065",New-York,15/12/2023,2,2,1463
+3470000,"252 South St Unit 57C, New York, NY 10002",New-York,15/12/2023,3,3,1487
+2370000,"252 South St Unit 38G, New York, NY 10002",New-York,15/12/2023,2,2,1156
+1123500,"141-15 Cherry Ave Unit 2E, Flushing, NY 11355",New-York,15/12/2023,2,2,1070
+798000,"141-15 Cherry Ave Unit 2D, Flushing, NY 11355",New-York,15/12/2023,2,2,718
+2175000,"1846 West 4th St, Brooklyn, NY 11223",New-York,15/12/2023,7,8,3198
+849800,"194 Bay 17th St Unit 1G, Brooklyn, NY 11214",New-York,15/12/2023,2,1.5,1517
+1195000,"345 E 56th St Unit 3G, New York, NY 10022",New-York,15/12/2023,2,2,1400
+7100000,"173 Macdougal St Unit 4E, New York, NY 10011",New-York,15/12/2023,3,2.5,2266
+1399000,"128-17 143rd St, Jamaica, NY 11436",New-York,15/12/2023,6,5,2500
+650000,"687 E 232nd St, Bronx, NY 10466",New-York,15/12/2023,5,2,1951
+1400000,"199 Vineland Ave, Staten Island, NY 10312",New-York,15/12/2023,5,3.5,2250
+3095000,"368 3rd Ave Unit 12A, New York, NY 10016",New-York,15/12/2023,3,3.5,1601
+1350000,"750 Lafayette Ave, Brooklyn, NY 11221",New-York,15/12/2023,3,2.5,573
+2995000,"368 3rd Ave Unit 9A, New York, NY 10016",New-York,15/12/2023,3,2.5,1629
+999000,"521 Beach 128th St, Belle Harbor, NY 11694",New-York,15/12/2023,3,1.5,1499
+919000,"108 Nichols Ave, Cypress Hills, NY 11208",New-York,15/12/2023,5,3,2160
+499000,"1 Patricia Ln #404, Bronx, NY 10465",New-York,15/12/2023,2,2,1050
+1100000,"2890 Bailey Ave, Bronx, NY 10463",New-York,15/12/2023,8,4,2472
+668000,"33 Sumner Ave, Staten Island, NY 10314",New-York,15/12/2023,3,3.5,1560
+988000,"142-29 248th St, Rosedale, NY 11422",New-York,15/12/2023,4,2,1440
+1399000,"2137 Coney Island Ave, Brooklyn, NY 11223",New-York,15/12/2023,10,4,3840
+599900,"268 Westervelt Ave, Staten Island, NY 10301",New-York,15/12/2023,6,4,2052
+880000,"81 Figurea Ave, Staten Island, NY 10312",New-York,15/12/2023,3,1.5,1430
+799000,"669 E 237, Bronx, NY 10466",New-York,15/12/2023,6,4,2310
+850000,"213 Liberty Ave, Staten Island, NY 10305",New-York,15/12/2023,3,2.5,1696
+725000,"480 Lynn St, Staten Island, NY 10306",New-York,15/12/2023,3,1.5,1476
+1599000,"1230 Bay Ridge Ave, Brooklyn, NY 11219",New-York,15/12/2023,11,6,4800
+750000,"4325 Boyd Ave, Bronx, NY 10466",New-York,15/12/2023,4,2,2340
+815156,"156 Davis Ave, Staten Island, NY 10310",New-York,15/12/2023,4,3.5,2945
+815152,"152 Davis Ave, Staten Island, NY 10310",New-York,15/12/2023,4,3.5,2945
+1995000,"166 12th St, Brooklyn, NY 11215",New-York,15/12/2023,5,3,1800
+615000,"501 Surf Ave Unit 18F, Brooklyn, NY 11224",New-York,15/12/2023,3,1.5,1165
+685000,"59 Bartlett Ave, Staten Island, NY 10312",New-York,15/12/2023,3,2,1280
+825000,"68 Eldert St Unit 3A, Brooklyn, NY 11207",New-York,15/12/2023,2,2,760
+1800000,"265 Midwood St, Prospect Lefferts Gardens, NY 11225",New-York,15/12/2023,5,2.5,3210
+688888,"761 S Oak Dr, Bronx, NY 10467",New-York,15/12/2023,4,2,2846
+888000,"69-10 108 St Unit 4c, Forest Hills, NY 11375",New-York,15/12/2023,3,2,1600
+1850000,"388 Bridge St Unit 43H, Brooklyn, NY 11201",New-York,15/12/2023,2,2,1153
+1100000,"2161 Bedford Ave, Brooklyn, NY 11226",New-York,15/12/2023,3,2,570
+1188000,"1268 76th St, Brooklyn, NY 11228",New-York,15/12/2023,4,2,1580
+720000,"116-30 197th St, Saint Albans, NY 11412",New-York,15/12/2023,3,1.5,1416
+980000,"73-15 58th Ave, Maspeth, NY 11378",New-York,15/12/2023,3,2.5,2189
+869000,"1032 Rhinelander Ave, Bronx, NY 10461",New-York,15/12/2023,6,3,1526
+3700000,"111 W 56th St Unit 41A, New York, NY 10019",New-York,15/12/2023,2,2,1081
+895000,"406 Midwood St Unit 2B, Brooklyn, NY 11225",New-York,15/12/2023,2,1.5,1019
+4495000,"3 E 78th St, New York, NY 10075",New-York,15/12/2023,2,3,1650
+427000,"61-20 Grand Central Pkwy Unit C1006, Forest Hills, NY 11375",New-York,15/12/2023,2,2,1300
+1199999,"416 Revere Ave, Bronx, NY 10465",New-York,15/12/2023,6,5.5,2550
+1035000,"30-05 Vernon Blvd Unit 4-K, New York, NY 11102",New-York,15/12/2023,2,2,925
+1690000,"11 Hoyt St Unit 52F, Brooklyn, NY 11201",New-York,15/12/2023,2,2,1001
+2560000,"413 Greene Ave, Brooklyn, NY 11216",New-York,15/12/2023,13,4,840
+1588000,"48-44 65th Pl, Woodside, NY 11377",New-York,15/12/2023,5,3,1920
+4995000,"51 Barrow St, New York, NY 10014",New-York,15/12/2023,2,2.5,2000
+718888,"196 Wellbrook Ave, Staten Island, NY 10314",New-York,15/12/2023,3,2.5,1320
+2999000,"142 Clymer St #4, Brooklyn, NY 11249",New-York,15/12/2023,5,2.5,3200
+1200000,"48-13 88th St, Elmhurst, NY 11373",New-York,15/12/2023,3,2,2560
+1099000,"84-11 165th Ave, Howard Beach, NY 11414",New-York,15/12/2023,5,2.5,1760
+475000,"66-10 Thornton Pl Unit 3E, Rego Park, NY 11374",New-York,15/12/2023,2,2,1200
+1275000,"45-33 Zion St, Little Neck, NY 11362",New-York,15/12/2023,4,3.5,1820
+7700000,"398 Bond St, Brooklyn, NY 11231",New-York,15/12/2023,6,5,6479
+688000,"273 Osgood Ave, Staten Island, NY 10304",New-York,15/12/2023,3,2.5,1350
+5100000,"201 E 74th St Unit 16A, New York, NY 10021",New-York,15/12/2023,3,3.5,2171
+4900000,"201 E 74th St Unit 11A, New York, NY 10021",New-York,15/12/2023,3,3.5,2171
+3470000,"201 E 74th St Unit 14B, New York, NY 10021",New-York,15/12/2023,2,2,1522
+5400000,"201 E 74th St Unit 20A, New York, NY 10021",New-York,15/12/2023,3,3.5,2179
+1999000,"1746 Bay Ridge Ave, Brooklyn, NY 11204",New-York,15/12/2023,3,3,1482
+523999,"10 Simmons Ln, Staten Island, NY 10314",New-York,15/12/2023,2,2.5,1480
+3350000,"201 E 74th St Unit 9B, New York, NY 10021",New-York,15/12/2023,2,2,1522
+12500000,"201 E 74th St #23, New York, NY 10021",New-York,15/12/2023,5,4.5,3815
+848000,"1645 71 St, Brooklyn, NY 11204",New-York,15/12/2023,3,3,1080
+950000,"932 Putnam Ave, Bedford-stuyvesant, NY 11221",New-York,15/12/2023,4,2,2250
+1399000,"150 Beach 124th St, Belle Harbor, NY 11694",New-York,15/12/2023,6,4,3250
+995000,"25 Sutton Pl S Unit 10E, New York, NY 10022",New-York,15/12/2023,2,2,1400
+699000,"89-69 218 Pl, Queens Village, NY 11427",New-York,15/12/2023,2,1.5,1423
+1190000,"13-88 Chandler St, Far Rockaway, NY 11691",New-York,15/12/2023,8,6,2888
+1175000,"123-01 6th Ave, College Point, NY 11356",New-York,15/12/2023,7,3,1840
+900000,"2279 3rd Ave Unit 4A, New York, NY 10035",New-York,15/12/2023,2,2,1305
+995000,"575 4th Ave Unit 2A, Brooklyn, NY 11215",New-York,15/12/2023,2,2,1030
+1250000,"575 4th Ave Unit 10D, Brooklyn, NY 11215",New-York,15/12/2023,2,2,1057
+4000000,"71 W Washington Pl Unit 1A, New York, NY 10011",New-York,15/12/2023,3,2.5,2420
+1068000,"2217 East 27th St, Brooklyn, NY 11229",New-York,15/12/2023,4,2,1944
+5250000,"362 State St #1, Brooklyn, NY 11217",New-York,15/12/2023,4,3.5,3554
+1125000,"30-05 Vernon Blvd Unit 2-K, New York, NY 11102",New-York,15/12/2023,2,2,923
+639999,"3816 Waldo Ave Unit 3B, Bronx, NY 10463",New-York,15/12/2023,3,2,1180
+600000,"100 W 121 St #64, New York, NY 10027",New-York,15/12/2023,3,1.5,1000
+1150000,"46 Kossuth Pl Ph -C, Brooklyn, NY 11221",New-York,15/12/2023,2,2,1105
+1750000,"1356 Carroll St, Brooklyn, NY 11213",New-York,15/12/2023,4,2,900
+990000,"30 E 54th St, Brooklyn, NY 11203",New-York,15/12/2023,5,2.5,800
+1399000,"31-53 45 St, Astoria, NY 11103",New-York,15/12/2023,4,3,2283
+988800,"1963 79th St, Brooklyn, NY 11214",New-York,15/12/2023,4,1.5,1312
+1325000,"42-60 Crescent St Unit 3C, New York, NY 11101",New-York,15/12/2023,2,2,1088
+899975,"861 E 231st St, Bronx, NY 10466",New-York,15/12/2023,6,3,1952
+899000,"105-38 89th St, Ozone Park, NY 11417",New-York,15/12/2023,3,2,2500
+965000,"501 Regent Pl NE, Washington, DC 20017",Washington-DC,15/12/2023,3,3.5,2160
+939000,"4208 13th St NE, Washington, DC 20017",Washington-DC,15/12/2023,4,3.5,2284
+655000,"1263 Van Buren St NW, Washington, DC 20012",Washington-DC,15/12/2023,4,2,1804
+835000,"1718 D St NE, Washington, DC 20002",Washington-DC,15/12/2023,4,2.5,1940
+799000,"1215 Holbrook Ter NE, Washington, DC 20002",Washington-DC,15/12/2023,3,3,1500
+330000,"6025 Clay St NE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1458
+370000,"123 49th St SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,800
+347000,"1632 Q St SE, Washington, DC 20020",Washington-DC,15/12/2023,3,1.5,992
+2750000,"6632 32nd Pl NW, Washington, DC 20015",Washington-DC,15/12/2023,6,4.5,5348
+389999,"2019 Alabama Ave SE, Washington, DC 20020",Washington-DC,15/12/2023,3,2,1150
+599000,"1117 Allison St NW #1, Washington, DC 20011",Washington-DC,15/12/2023,2,2.5,1167
+459900,"610 Darrington St SE, Washington, DC 20032",Washington-DC,15/12/2023,4,2.5,1498
+1249000,"1808 Irving St NW, Washington, DC 20010",Washington-DC,15/12/2023,3,2,1436
+849026,"26 Q St NW, Washington, DC 20001",Washington-DC,15/12/2023,6,2,2625
+995000,"1301 NW Rhode Island Ave NW #4, Washington, DC 20005",Washington-DC,15/12/2023,2,2,1455
+1500000,"1666 33rd St NW, Washington, DC 20007",Washington-DC,15/12/2023,3,1.5,1468
+865000,"1344 A St SE, Washington, DC 20003",Washington-DC,15/12/2023,3,2.5,2107
+579900,"428 Oakdale Pl NW, Washington, DC 20001",Washington-DC,15/12/2023,2,1.5,744
+2450000,"510 8th St SE, Washington, DC 20003",Washington-DC,15/12/2023,9,2,5135
+1549000,"1312 Gallatin St NW, Washington, DC 20011",Washington-DC,15/12/2023,5,4.5,3500
+409000,"22 Gallatin St NE Unit C, Washington, DC 20011",Washington-DC,15/12/2023,2,2,738
+425000,"308 63rd St NE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1248
+1100000,"1011 Taylor St NE, Washington, DC 20017",Washington-DC,15/12/2023,4,5,2294
+489900,"232 Hamilton St NW #8, Washington, DC 20011",Washington-DC,15/12/2023,2,2,853
+899900,"902 Irving St NE, Washington, DC 20017",Washington-DC,15/12/2023,4,3.5,2305
+1375000,"149 Thomas St NW, Washington, DC 20001",Washington-DC,15/12/2023,5,3.5,2532
+995000,"2328 Champlain St NW #402, Washington, DC 20009",Washington-DC,15/12/2023,2,2,1300
+639900,"5054 11th St NE, Washington, DC 20017",Washington-DC,15/12/2023,3,3.5,1537
+399900,"1019 17th Pl NE #002, Washington, DC 20002",Washington-DC,15/12/2023,2,2,859
+1149900,"401 K St NE Unit B, Washington, DC 20002",Washington-DC,15/12/2023,4,3.5,2250
+350000,"3319 B St SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1590
+499900,"1009 Rhode Island Ave NE #3, Washington, DC 20018",Washington-DC,15/12/2023,2,2,808
+3995000,"3420 Newark St NW, Washington, DC 20016",Washington-DC,15/12/2023,6,4.5,4300
+749900,"1819 A St SE Unit C, Washington, DC 20003",Washington-DC,15/12/2023,2,2,1158
+794590,"1501 Erie St SE, Washington, DC 20020",Washington-DC,15/12/2023,4,4.5,2907
+685000,"1745 N St NW #406, Washington, DC 20036",Washington-DC,15/12/2023,2,1.5,690
+1175000,"3641 Warren St NW, Washington, DC 20008",Washington-DC,15/12/2023,4,3.5,2586
+1198000,"2228 12th St NW, Washington, DC 20009",Washington-DC,15/12/2023,3,1.5,1358
+799999,"1429 Parkwood Pl NW, Washington, DC 20010",Washington-DC,15/12/2023,4,3,1794
+1150000,"916 K St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,3.5,3030
+1650000,"3309 Runnymede Pl NW, Washington, DC 20015",Washington-DC,15/12/2023,4,3,3270
+1499900,"1201 N Royal St #216, Alexandria, VA 22314",Washington-DC,15/12/2023,2,2,1756
+625000,"1512 F St NE #1, Washington, DC 20002",Washington-DC,15/12/2023,3,3,1379
+450000,"3473 23rd St SE, Washington, DC 20020",Washington-DC,15/12/2023,4,2,1024
+799000,"3642 Commodore Joshua Barney Dr NE, Washington, DC 20018",Washington-DC,15/12/2023,5,4.5,2590
+1725000,"3408 O St NW, Washington, DC 20007",Washington-DC,15/12/2023,4,3,1467
+1125000,"1827 Wiltberger St NW #405, Washington, DC 20001",Washington-DC,15/12/2023,2,2.5,1541
+6500000,"1832 24th St NW, Washington, DC 20008",Washington-DC,15/12/2023,4,4.5,5709
+449000,"4005 E St SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1702
+948000,"1409 S Capitol St SW, Washington, DC 20003",Washington-DC,15/12/2023,2,2.5,1292
+1995000,"4501 Foxhall Cres NW, Washington, DC 20007",Washington-DC,15/12/2023,4,3.5,3316
+550000,"5811 5th St NW, Washington, DC 20011",Washington-DC,15/12/2023,3,3,1620
+1699000,"2852 Arizona Ave NW, Washington, DC 20016",Washington-DC,15/12/2023,6,3.5,3160
+669000,"1712 C St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2.5,1903
+1249000,"2428 Tunlaw Rd NW, Washington, DC 20007",Washington-DC,15/12/2023,3,2,1878
+629000,"1103 Fern St NW #303, Washington, DC 20012",Washington-DC,15/12/2023,2,2.5,1068
+797000,"1310 Spring Rd NW Ph -B, Washington, DC 20010",Washington-DC,15/12/2023,2,2.5,1139
+799000,"431 Quincy St NW #3, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,1600
+459000,"1103 Fern St NW #002, Washington, DC 20012",Washington-DC,15/12/2023,2,2,1080
+392500,"1352 Bryant St NE Unit 1A, Washington, DC 20018",Washington-DC,15/12/2023,2,2,780
+1200000,"2555 Pennsylvania Ave NW #706, Washington, DC 20037",Washington-DC,15/12/2023,2,2,1223
+850000,"1319 Taylor St NW, Washington, DC 20011",Washington-DC,15/12/2023,5,2.5,2478
+1547500,"1625 Montague St NW, Washington, DC 20011",Washington-DC,15/12/2023,5,4.5,3576
+340000,"4703 Springmaid Ln, Oxon Hill, MD 20745",Washington-DC,15/12/2023,3,3,1296
+1100000,"1613 Irving St NW, Washington, DC 20010",Washington-DC,15/12/2023,8,4,2582
+579000,"3312 D St SE, Washington, DC 20019",Washington-DC,15/12/2023,4,2,1440
+440000,"407 Woodcrest Dr SE Unit 407-A, Washington, DC 20032",Washington-DC,15/12/2023,3,2.5,1422
+459950,"97 Danbury St SW, Washington, DC 20032",Washington-DC,15/12/2023,2,2.5,1412
+5880000,"1352 28th St NW, Washington, DC 20007",Washington-DC,15/12/2023,4,4.5,3700
+622000,"518 Oglethorpe St NW, Washington, DC 20011",Washington-DC,15/12/2023,4,2.5,2106
+985000,"5728 8th St NW, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,2073
+775000,"1410 Carrollsburg Pl SW, Washington, DC 20024",Washington-DC,15/12/2023,3,1.5,1400
+899900,"1279 Oates St NE, Washington, DC 20002",Washington-DC,15/12/2023,4,3.5,1905
+550000,"4207 12th St NE, Washington, DC 20017",Washington-DC,15/12/2023,3,2,1656
+1449000,"1620 Potomac Ave SE, Washington, DC 20003",Washington-DC,15/12/2023,4,3.5,2235
+515000,"5108 N Capitol St NW, Washington, DC 20011",Washington-DC,15/12/2023,3,2.5,1802
+399000,"235 55th St NE, Washington, DC 20019",Washington-DC,15/12/2023,3,1.5,900
+345000,"2009 37th St SE #301, Washington, DC 20020",Washington-DC,15/12/2023,3,2,1340
+340000,"333 Raleigh St SE, Washington, DC 20032",Washington-DC,15/12/2023,3,2.5,1354
+925000,"1314 Emerald St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2.5,1674
+725000,"431 Quincy St NW #2, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,1594
+535000,"1101 Chaplin St SE, Washington, DC 20019",Washington-DC,15/12/2023,5,2,1722
+689000,"517 Montana Ave NE #4, Washington, DC 20017",Washington-DC,15/12/2023,3,2.5,1303
+860000,"1214 Florida Ave NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2,1632
+3950000,"711 Lawrence St NE, Washington, DC 20017",Washington-DC,15/12/2023,8,5.5,4450
+1249900,"1231 Potomac St NW, Washington, DC 20007",Washington-DC,15/12/2023,2,2,1224
+595000,"1380 Quincy St NW Unit 4-A, Washington, DC 20011",Washington-DC,15/12/2023,2,2,902
+699000,"618 Rock Creek Church Rd NW, Washington, DC 20010",Washington-DC,15/12/2023,5,3,2569
+329000,"507 Oakwood St SE, Washington, DC 20032",Washington-DC,15/12/2023,3,2,1744
+1600000,"224 21st St NE, Washington, DC 20002",Washington-DC,15/12/2023,4,4,3465
+700000,"4400 Gault Pl NE, Washington, DC 20019",Washington-DC,15/12/2023,6,3,1822
+799999,"1703 Bunker Hill Rd NE, Washington, DC 20017",Washington-DC,15/12/2023,3,2.5,2330
+699000,"1613 5th St NW, Washington, DC 20001",Washington-DC,15/12/2023,2,1.5,1080
+399900,"1009 Rhode Island Ave NE #1, Washington, DC 20018",Washington-DC,15/12/2023,2,2,812
+1550000,"1408 Buchanan St NW, Washington, DC 20011",Washington-DC,15/12/2023,5,3.5,2580
+1199900,"619 F St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2.5,2194
+1145000,"1423 Ames Pl NE, Washington, DC 20002",Washington-DC,15/12/2023,4,3.5,1881
+515000,"5008 B St SE, Washington, DC 20019",Washington-DC,15/12/2023,4,3,1700
+1395000,"3802 Military Rd NW, Washington, DC 20015",Washington-DC,15/12/2023,5,3.5,3300
+899900,"7 New York Ave NW, Washington, DC 20001",Washington-DC,15/12/2023,6,3,2904
+624900,"1330 Randolph NW #1, Washington, DC 20011",Washington-DC,15/12/2023,3,2,1000
+1500000,"1245 NW 34th St NW, Washington, DC 20007",Washington-DC,15/12/2023,3,1.5,1925
+425000,"1669 Columbia Rd NW #310, Washington, DC 20009",Washington-DC,15/12/2023,2,1.5,1120
+450000,"1837 Frederick Douglass Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,3,3.5,1891
+549000,"2217 40th Pl NW #1, Washington, DC 20007",Washington-DC,15/12/2023,2,2,886
+620000,"311 6th St SE #1, Washington, DC 20003",Washington-DC,15/12/2023,2,1.5,823
+1575000,"1766 T St NW, Washington, DC 20009",Washington-DC,15/12/2023,4,3.5,1810
+395000,"2213 M St NE #1, Washington, DC 20002",Washington-DC,15/12/2023,2,2,764
+489900,"1018 Bryant St NE #4, Washington, DC 20018",Washington-DC,15/12/2023,2,2.5,980
+550000,"505 Kennedy St NW #402, Washington, DC 20011",Washington-DC,15/12/2023,3,2.5,1198
+470000,"3319 6th St SE, Washington, DC 20032",Washington-DC,15/12/2023,4,2.5,1793
+1299900,"3017 16th St NE, Washington, DC 20018",Washington-DC,15/12/2023,5,3.5,2875
+699900,"667 Oglethorpe St NE, Washington, DC 20011",Washington-DC,15/12/2023,4,2.5,1728
+1249000,"1001 Kenyon St NW, Washington, DC 20010",Washington-DC,15/12/2023,5,4,2325
+1695000,"2912 26th St NE, Washington, DC 20018",Washington-DC,15/12/2023,5,4.5,3570
+649000,"1411 42nd St SE, Washington, DC 20020",Washington-DC,15/12/2023,4,3.5,2150
+758500,"3225 Grace St Nw NW #218, Washington, DC 20007",Washington-DC,15/12/2023,2,2,983
+1299000,"2801 Kanawha St NW, Washington, DC 20015",Washington-DC,15/12/2023,5,5,3269
+450000,"3323 Alden Pl NE, Washington, DC 20019",Washington-DC,15/12/2023,2,2,1144
+995000,"230 F St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2,1781
+1075000,"250 9th St NE, Washington, DC 20002",Washington-DC,15/12/2023,2,2.5,1701
+599900,"1244 Raum St NE #4, Washington, DC 20002",Washington-DC,15/12/2023,3,2.5,1460
+949900,"136 Bates St NW, Washington, DC 20001",Washington-DC,15/12/2023,3,2.5,1610
+2000000,"1708 16th St NW #5, Washington, DC 20009",Washington-DC,15/12/2023,3,3.5,2284
+699000,"2429 Skyland Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,3,2.5,2023
+999000,"1507 Freedom Way SE, Washington, DC 20003",Washington-DC,15/12/2023,3,3.5,1766
+465000,"5030 Benning Rd SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1008
+690000,"611 2nd St NE #3, Washington, DC 20002",Washington-DC,15/12/2023,2,2,833
+550000,"5120 12th St NE, Washington, DC 20011",Washington-DC,15/12/2023,3,2,1745
+449999,"4343 Gorman Ter SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,976
+998900,"1206 11th St NW, Washington, DC 20001",Washington-DC,15/12/2023,4,2,1693
+530000,"1136 Branch Ave SE, Washington, DC 20019",Washington-DC,15/12/2023,3,3.5,1283
+390000,"3115 Minnesota Ave SE, Washington, DC 20019",Washington-DC,15/12/2023,3,2,1640
+975000,"1216 I St NE #2, Washington, DC 20002",Washington-DC,15/12/2023,4,3.5,1850
+749900,"53 Hamilton St NW, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,2052
+699999,"1106 E St SE, Washington, DC 20003",Washington-DC,15/12/2023,3,2,2212
+379900,"6512 N Capitol St NW, Washington, DC 20012",Washington-DC,15/12/2023,3,2.5,1244
+660000,"1340 L St SE, Washington, DC 20003",Washington-DC,15/12/2023,2,1.5,1188
+1125000,"1827 Wiltberger St NW Ph 02, Washington, DC 20001",Washington-DC,15/12/2023,2,2.5,1060
+389900,"310 Delafield Pl NW #3, Washington, DC 20011",Washington-DC,15/12/2023,2,2,736
+740000,"1820 C St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,3,1686
+1249500,"2022 N Capitol St NW, Washington, DC 20002",Washington-DC,15/12/2023,4,3.5,2443
+535000,"3082 Clinton St NE, Washington, DC 20018",Washington-DC,15/12/2023,3,2,2003
+600000,"10 Franklin St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2,1395
+249900,"531 Kennedy St NW #6, Washington, DC 20011",Washington-DC,15/12/2023,2,2,850
+490000,"714 Hamilton St NE, Washington, DC 20011",Washington-DC,15/12/2023,3,1.5,1504
+475000,"2351 Hunter Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,3,1.5,1480
+469900,"428 Evarts St NE #2, Washington, DC 20017",Washington-DC,15/12/2023,2,2,801
+2850000,"3525 Winfield Ln NW, Washington, DC 20007",Washington-DC,15/12/2023,4,5,3500
+446000,"1007 Bryant St NE #1, Washington, DC 20018",Washington-DC,15/12/2023,2,2,894
+2299000,"3105 38th St NW, Washington, DC 20016",Washington-DC,15/12/2023,5,4.5,3317
+595000,"1000 New Jersey Ave SE Ph 15, Washington, DC 20003",Washington-DC,15/12/2023,2,2,957
+700000,"57 N St NW #225, Washington, DC 20001",Washington-DC,15/12/2023,2,2,1059
+714999,"5212 Kansas Ave NW, Washington, DC 20011",Washington-DC,15/12/2023,3,2,1224
+580000,"5020 Meade St NE, Washington, DC 20019",Washington-DC,15/12/2023,3,2.5,2712
+475000,"5413 C St SE, Washington, DC 20019",Washington-DC,15/12/2023,4,2.5,1445
+1290000,"7746 16th St NW, Washington, DC 20012",Washington-DC,15/12/2023,6,5,4288
+549900,"7700 Georgia Ave NW #304, Washington, DC 20012",Washington-DC,15/12/2023,2,2,1005
+1115000,"1238 Florida Ave NE, Washington, DC 20002",Washington-DC,15/12/2023,3,2.5,1806
+600000,"3275 Fort Lincoln Dr NE, Washington, DC 20018",Washington-DC,15/12/2023,3,3,1780
+650000,"3300 18th Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,5,2.5,1901
+425000,"2729 31st Pl NE #2729, Washington, DC 20018",Washington-DC,15/12/2023,2,2.5,1379
+890000,"1552 8th St NW Unit 1, Washington, DC 20001",Washington-DC,15/12/2023,3,3.5,1578
+999950,"1205 Fern St NW, Washington, DC 20012",Washington-DC,15/12/2023,6,3,3066
+780000,"1211 Van St SE #1211, Washington, DC 20003",Washington-DC,15/12/2023,2,2,1100
+680000,"3133 Newton St NE, Washington, DC 20018",Washington-DC,15/12/2023,3,1.5,1425
+460000,"4000 Tunlaw Rd NW #816, Washington, DC 20007",Washington-DC,15/12/2023,2,2,1083
+2499900,"635 Slaters Ln Unit 403-E, Alexandria, VA 22314",Washington-DC,15/12/2023,2,2.5,1914
+795000,"3647 New Hampshire Ave NW, Washington, DC 20010",Washington-DC,15/12/2023,3,1.5,2232
+810000,"1623 Potomac Ave SE, Washington, DC 20003",Washington-DC,15/12/2023,2,2.5,980
+979000,"1002 K St NE, Washington, DC 20002",Washington-DC,15/12/2023,3,3.5,2324
+485000,"1830 Webster Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,4,3,1710
+1250000,"641 Q St NW, Washington, DC 20001",Washington-DC,15/12/2023,3,3.5,1558
+1100000,"3058 7th St NE, Washington, DC 20017",Washington-DC,15/12/2023,3,3.5,2122
+489000,"2214 Irving St SE, Washington, DC 20020",Washington-DC,15/12/2023,5,2.5,1536
+365000,"2332 14th Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,2,2,1094
+2499000,"2626 Garfield St NW, Washington, DC 20008",Washington-DC,15/12/2023,6,5.5,3433
+698000,"4510 South Dakota Ave NE, Washington, DC 20017",Washington-DC,15/12/2023,3,2,1842
+879900,"5606 5th St NW, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,2268
+610000,"1719 Euclid St NW #1, Washington, DC 20009",Washington-DC,15/12/2023,2,2,796
+535000,"2750 14th St NW #608, Washington, DC 20009",Washington-DC,15/12/2023,2,2,974
+534000,"2750 14th St NW #508, Washington, DC 20009",Washington-DC,15/12/2023,2,2,974
+695000,"1923 9th St NW #3, Washington, DC 20001",Washington-DC,15/12/2023,2,2,1139
+515000,"804 Taylor St NW #403, Washington, DC 20011",Washington-DC,15/12/2023,2,2,887
+549900,"301 Massachusetts Ave NW #802, Washington, DC 20001",Washington-DC,15/12/2023,2,1.5,761
+1195000,"1309 E St SE #30, Washington, DC 20003",Washington-DC,15/12/2023,4,3.5,2284
+784900,"1120 K St NE, Washington, DC 20002",Washington-DC,15/12/2023,4,2,1856
+749000,"646 H St NE #504, Washington, DC 20002",Washington-DC,15/12/2023,2,2,888
+624900,"1444 Fairmont St NW #1, Washington, DC 20009",Washington-DC,15/12/2023,2,2,975
+769500,"735 Irving St NW, Washington, DC 20010",Washington-DC,15/12/2023,3,1.5,1336
+484900,"629 18th St NE, Washington, DC 20002",Washington-DC,15/12/2023,2,1.5,728
+925000,"4006 14th St NW, Washington, DC 20011",Washington-DC,15/12/2023,4,3.5,1950
+400000,"3434 24th St SE, Washington, DC 20020",Washington-DC,15/12/2023,3,2,1200
+569900,"2001 16th St NW #206, Washington, DC 20009",Washington-DC,15/12/2023,2,1.5,862
+569900,"429 18th St NE #3, Washington, DC 20002",Washington-DC,15/12/2023,3,3,1235
+699999,"117 55th St SE, Washington, DC 20019",Washington-DC,15/12/2023,4,4,2433
+695000,"2020 32nd Pl SE, Washington, DC 20020",Washington-DC,15/12/2023,3,2,2350
+3250000,"1662 34th St NW, Washington, DC 20007",Washington-DC,15/12/2023,3,3,2040
+979000,"717 Girard St NW, Washington, DC 20001",Washington-DC,15/12/2023,4,3.5,2076
+699900,"1925 16th St NW #502, Washington, DC 20009",Washington-DC,15/12/2023,2,2,1000
+850000,"4254 6th St SE, Washington, DC 20032",Washington-DC,15/12/2023,10,6,3185
+649500,"4820 S Dakota Ave NE, Washington, DC 20017",Washington-DC,15/12/2023,3,2,1767
+935970,"3603 34th St NW, Washington, DC 20008",Washington-DC,15/12/2023,3,1.5,1394
+639000,"2908 2nd St SE, Washington, DC 20032",Washington-DC,15/12/2023,14,6,2652
+999999,"3556 13th St NW #1, Washington, DC 20010",Washington-DC,15/12/2023,4,3,2020
+865000,"2241 S St NE, Washington, DC 20002",Washington-DC,15/12/2023,4,2.5,2566
+410000,"9050 W Tropicana Ave #1040, Las Vegas, NV 89147",Las-Vegas,15/12/2023,3,3.5,1589
+385000,"3928 Coconut Ct, Las Vegas, NV 89108",Las-Vegas,15/12/2023,3,2.5,1711
+229000,"3151 Soaring Gulls Dr #2133, Las Vegas, NV 89128",Las-Vegas,15/12/2023,2,2,1074
+660000,"11127 Ash Mountain St, Las Vegas, NV 89179",Las-Vegas,15/12/2023,4,2.5,2880
+310000,"5424 Tassara Way #105, Las Vegas, NV 89108",Las-Vegas,15/12/2023,2,2,1066
+349500,"6409 Bristol Way, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2,1663
+270000,"6581 Clara Bow Ave #101, Las Vegas, NV 89122",Las-Vegas,15/12/2023,2,2,1068
+435000,"4760 Summerhill Rd, Las Vegas, NV 89121",Las-Vegas,15/12/2023,4,3,2250
+645000,"2877 Paradise Rd #1406, Las Vegas, NV 89109",Las-Vegas,15/12/2023,2,2,1712
+575000,"6587 Keynote Dr, Las Vegas, NV 89118",Las-Vegas,15/12/2023,4,4,3490
+335000,"10207 Rising Tree St, Las Vegas, NV 89183",Las-Vegas,15/12/2023,3,2.5,1510
+1600000,"2885 Red Springs Dr, Las Vegas, NV 89135",Las-Vegas,15/12/2023,3,3.5,2508
+550000,"2682 Ivoryhill St, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,3,2074
+824900,"10528 Button Willow Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2.5,2334
+370000,"6204 Stone Hollow Ave, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,3,1870
+419999,"1828 Bonita Ave, Las Vegas, NV 89104",Las-Vegas,15/12/2023,5,2,2358
+725000,"2857 Paradise Rd #106, Las Vegas, NV 89109",Las-Vegas,15/12/2023,2,2,1712
+365000,"5239 Island Chain Rd, Las Vegas, NV 89118",Las-Vegas,15/12/2023,2,2.5,1677
+320000,"2611 San Gorgonio St, Las Vegas, NV 89115",Las-Vegas,15/12/2023,4,2,1242
+560000,"10304 Birch Bluff Ln, Las Vegas, NV 89145",Las-Vegas,15/12/2023,3,2,1392
+1000000,"10701 Button Willow Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2.5,2731
+459000,"1633 Palmae Way, Las Vegas, NV 89128",Las-Vegas,15/12/2023,4,2.5,2167
+235000,"1000 Falconhead Ln #202, Las Vegas, NV 89128",Las-Vegas,15/12/2023,2,2,912
+561040,"681 Infinity Ridge St, Las Vegas, NV 89138",Las-Vegas,15/12/2023,3,2.5,1914
+664022,"10006 Egan Valley St, Las Vegas, NV 89166",Las-Vegas,15/12/2023,3,2.5,2337
+369900,"8245 Harvest Spring Pl, Las Vegas, NV 89143",Las-Vegas,15/12/2023,3,2.5,1590
+1388000,"10563 Bambola Pl, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,3.5,3217
+630000,"1962 Cosmic Dr, Las Vegas, NV 89115",Las-Vegas,15/12/2023,8,,3212
+379995,"1401 Joshua Way, Las Vegas, NV 89101",Las-Vegas,15/12/2023,4,3,1600
+269000,"8501 W University Ave #1123, Las Vegas, NV 89147",Las-Vegas,15/12/2023,3,2,1090
+399990,"5332 Desert Blossom Rd, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2.5,1822
+329000,"2509 Banora Point Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1021
+439990,"4968 Lavaliere Ave, Las Vegas, NV 89139",Las-Vegas,15/12/2023,4,2.5,1991
+725000,"8412 Bay Point Dr, Las Vegas, NV 89128",Las-Vegas,15/12/2023,3,3.5,3152
+585000,"9808 Via Delores Ave, Las Vegas, NV 89117",Las-Vegas,15/12/2023,3,2.5,2254
+399900,"5013 Morning Falls Ave, Las Vegas, NV 89131",Las-Vegas,15/12/2023,3,2,1655
+435000,"10829 Mission Lakes Ave, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1740
+399900,"9032 Spotless Ct, Las Vegas, NV 89149",Las-Vegas,15/12/2023,4,2.5,1828
+445000,"8123 Rams Collide St, Las Vegas, NV 89166",Las-Vegas,15/12/2023,3,2.5,1785
+854900,"1328 Cranston Ct, Las Vegas, NV 89135",Las-Vegas,15/12/2023,5,3,3146
+1410180,"3974 Heron Fairway Dr, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,4.5,3366
+359000,"3847 Starfield Ln, Las Vegas, NV 89147",Las-Vegas,15/12/2023,3,2.5,1457
+399999,"5330 Silver Branch Ave, Las Vegas, NV 89118",Las-Vegas,15/12/2023,3,2.5,1722
+500260,"9918 W Meranto Ave, Las Vegas, NV 89178",Las-Vegas,15/12/2023,4,3,2089
+294999,"6170 E Sahara Ave #1073, Las Vegas, NV 89142",Las-Vegas,15/12/2023,3,2.5,1396
+280000,"8410 Eldora Ave #1046, Las Vegas, NV 89117",Las-Vegas,15/12/2023,2,2,1148
+379999,"1206 Tumbleweed Ave, Las Vegas, NV 89106",Las-Vegas,15/12/2023,4,2,1624
+439950,"5256 Steptoe St, Las Vegas, NV 89122",Las-Vegas,15/12/2023,3,2.5,2036
+365000,"7601 Tiffany Lamp Ct, Las Vegas, NV 89149",Las-Vegas,15/12/2023,3,2.5,1642
+390000,"5929 Tinazzi Way, Las Vegas, NV 89141",Las-Vegas,15/12/2023,2,2,1104
+469900,"9813 Folsom Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1519
+275000,"2200 S Fort Apache Rd #1023, Las Vegas, NV 89117",Las-Vegas,15/12/2023,2,2,1053
+540000,"2143 Vista Famosa Ct, Las Vegas, NV 89123",Las-Vegas,15/12/2023,4,3,2595
+380000,"4417 Mcbride Dr, Las Vegas, NV 89108",Las-Vegas,15/12/2023,3,2.5,1643
+560000,"5530 Moore Cove Ave, Las Vegas, NV 89131",Las-Vegas,15/12/2023,3,2.5,2494
+325000,"5409 Bromley Ave, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2,2022
+1200000,"2857 Paradise Rd #1801, Las Vegas, NV 89109",Las-Vegas,15/12/2023,2,3,2805
+459900,"4332 Flagship Ct, Las Vegas, NV 89121",Las-Vegas,15/12/2023,3,2.5,2256
+527500,"8328 Sea Glen Dr, Las Vegas, NV 89128",Las-Vegas,15/12/2023,3,2.5,2118
+374990,"9924 Marigold Hills St Lot 153, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2.5,1437
+749000,"3047 Bel Air Dr, Las Vegas, NV 89109",Las-Vegas,15/12/2023,3,2.5,2600
+395000,"4478 Eureka Cir, Las Vegas, NV 89103",Las-Vegas,15/12/2023,3,2,1296
+395000,"8505 Linderwood Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1225
+430000,"4201 Hayes Pl, Las Vegas, NV 89107",Las-Vegas,15/12/2023,4,3,1650
+999999,"7208 Grace Estate Ave, Las Vegas, NV 89113",Las-Vegas,15/12/2023,3,2,2212
+399995,"5709 Condor Ave, Las Vegas, NV 89108",Las-Vegas,15/12/2023,4,2,1372
+669500,"2709 Eagle Springs Ct, Las Vegas, NV 89117",Las-Vegas,15/12/2023,3,2,2038
+700000,"8255 Las Vegas Blvd #1912, Las Vegas, NV 89123",Las-Vegas,15/12/2023,3,3,2463
+284395,"4278 Lemay Ave #1, Las Vegas, NV 89115",Las-Vegas,15/12/2023,2,2.5,1077
+287000,"4286 Lemay Ave #1, Las Vegas, NV 89115",Las-Vegas,15/12/2023,2,2.5,1077
+309999,"3743 Cannon Ave, Las Vegas, NV 89121",Las-Vegas,15/12/2023,2,2,1320
+350000,"145 Marion Dr, Las Vegas, NV 89110",Las-Vegas,15/12/2023,3,2,1678
+279995,"1730 Peanut Ct, Las Vegas, NV 89115",Las-Vegas,15/12/2023,4,2,1389
+300000,"6125 Caprino Ave, Las Vegas, NV 89108",Las-Vegas,15/12/2023,3,2,1392
+520000,"9948 Heather Moore Ave, Las Vegas, NV 89166",Las-Vegas,15/12/2023,3,2.5,2093
+675000,"9916 Dusty Winds Ave, Las Vegas, NV 89117",Las-Vegas,15/12/2023,4,3.5,2976
+529000,"9926 Ridge Hill Ave, Las Vegas, NV 89147",Las-Vegas,15/12/2023,4,3,2454
+264900,"3258 Chimayo Ln, Las Vegas, NV 89122",Las-Vegas,15/12/2023,2,2,1340
+491927,"9803 Cluny Ave, Las Vegas, NV 89178",Las-Vegas,15/12/2023,3,2.5,1455
+449000,"6829 Wimberly St, Las Vegas, NV 89148",Las-Vegas,15/12/2023,5,3,1818
+285000,"10001 Peace Way #1264, Las Vegas, NV 89147",Las-Vegas,15/12/2023,2,2,1057
+445000,"5504 Ravana Ave, Las Vegas, NV 89130",Las-Vegas,15/12/2023,3,2,1486
+214900,"6800 E Lake Mead Blvd #1100, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1084
+721000,"82 Badwater Basin St, Las Vegas, NV 89138",Las-Vegas,15/12/2023,4,3.5,2395
+309500,"2311 Los Feliz St, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1112
+595000,"7861 Salt Spray Ct, Las Vegas, NV 89139",Las-Vegas,15/12/2023,4,2.5,2324
+899000,"11121 Arbor Pine Ave, Las Vegas, NV 89144",Las-Vegas,15/12/2023,3,2.5,2615
+389995,"9813 Spinnaker Creek Ave, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2.5,1608
+335000,"6830 Mahogany Meadows Ave, Las Vegas, NV 89122",Las-Vegas,15/12/2023,3,3,1362
+899000,"4290 Solace St, Las Vegas, NV 89135",Las-Vegas,15/12/2023,2,2.5,2507
+295000,"3572 E Gowan Rd, Las Vegas, NV 89115",Las-Vegas,15/12/2023,3,2,1500
+265000,"9580 W West Reno Ave #201, Las Vegas, NV 89148",Las-Vegas,15/12/2023,2,2,1151
+325500,"4609 Curdsen Way, Las Vegas, NV 89110",Las-Vegas,15/12/2023,3,2.5,1503
+787282,"11822 Pandion Ave, Las Vegas, NV 89138",Las-Vegas,15/12/2023,4,3,2370
+349995,"4724 Cinderella Ln, Las Vegas, NV 89102",Las-Vegas,15/12/2023,3,2,1438
+896000,"10262 Timberline Valley Ave, Las Vegas, NV 89166",Las-Vegas,15/12/2023,5,4.5,3190
+549900,"9005 Pennystone Ave, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1653
+390000,"3767 Rawhide St, Las Vegas, NV 89120",Las-Vegas,15/12/2023,3,2,1437
+799000,"2916 Karen Ave, Las Vegas, NV 89121",Las-Vegas,15/12/2023,9,,4492
+249999,"3913 Blackford Pl, Las Vegas, NV 89102",Las-Vegas,15/12/2023,3,1.5,1159
+459000,"7210 Westbrook Ave, Las Vegas, NV 89147",Las-Vegas,15/12/2023,4,2.5,1762
+749999,"5383 Candlespice Way, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,2.5,2768
+424999,"3750 Pilgrim St, Las Vegas, NV 89121",Las-Vegas,15/12/2023,4,3,2025
+761028,"11816 Pandion Ave, Las Vegas, NV 89138",Las-Vegas,15/12/2023,4,3.5,2420
+828000,"9513 Villa Ridge Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,3,2.5,2577
+400000,"7837 Wind Drift Rd, Las Vegas, NV 89149",Las-Vegas,15/12/2023,4,2,1565
+528800,"11900 Arenoso Dr, Las Vegas, NV 89138",Las-Vegas,15/12/2023,3,2.5,1947
+380000,"633 Blue Yucca St, Las Vegas, NV 89144",Las-Vegas,15/12/2023,2,2,1042
+450000,"3111 Bel Air Dr Unit 4A, Las Vegas, NV 89109",Las-Vegas,15/12/2023,2,2.5,1856
+445000,"860 Whispering Grove Ave, Las Vegas, NV 89123",Las-Vegas,15/12/2023,3,2.5,1836
+770000,"7805 Harbour Towne Ave, Las Vegas, NV 89113",Las-Vegas,15/12/2023,2,2.5,1914
+749900,"10378 Grizzly Forest Dr, Las Vegas, NV 89178",Las-Vegas,15/12/2023,4,3,2042
+364998,"1386 Pleasant Brook St, Las Vegas, NV 89142",Las-Vegas,15/12/2023,3,2,1426
+475000,"3362 Horizon St, Las Vegas, NV 89121",Las-Vegas,15/12/2023,4,2,1906
+374900,"8561 Tellima Ct, Las Vegas, NV 89149",Las-Vegas,15/12/2023,3,2,1305
+707000,"11365 Gravitation Dr #11365, Las Vegas, NV 89135",Las-Vegas,15/12/2023,3,2.5,2298
+349900,"340 S Jones Blvd, Las Vegas, NV 89107",Las-Vegas,15/12/2023,4,3,1612
+260000,"3345 Encina Dr, Las Vegas, NV 89121",Las-Vegas,15/12/2023,2,2,1440
+440000,"733 Plantain Lily Ave, Las Vegas, NV 89183",Las-Vegas,15/12/2023,4,2.5,2212
+520000,"2200 Marlin Ave, Las Vegas, NV 89101",Las-Vegas,15/12/2023,6,,2139
+349999,"1852 Ann Greta Dr, Las Vegas, NV 89108",Las-Vegas,15/12/2023,2,2,1027
+252900,"4975 Newport Cove Dr Unit C, Las Vegas, NV 89119",Las-Vegas,15/12/2023,2,2,1000
+474900,"2839 Boise St, Las Vegas, NV 89121",Las-Vegas,15/12/2023,4,2.5,2220
+369000,"563 Christpher Ct, Las Vegas, NV 89110",Las-Vegas,15/12/2023,4,2,1581
+249000,"7809 Snowden Ln #201, Las Vegas, NV 89128",Las-Vegas,15/12/2023,2,2,1192
+407999,"813 Antelope Way, Las Vegas, NV 89145",Las-Vegas,15/12/2023,3,2,1484
+434990,"7035 Alabaster Peak St Lot 59, Las Vegas, NV 89166",Las-Vegas,15/12/2023,4,2.5,1865
+339999,"5032 Andover Dr, Las Vegas, NV 89122",Las-Vegas,15/12/2023,,2,1344
+655000,"8103 Villa Cano St, Las Vegas, NV 89131",Las-Vegas,15/12/2023,4,3.5,3000
+355000,"7621 Bauble Ave, Las Vegas, NV 89128",Las-Vegas,15/12/2023,3,2.5,1541
+560000,"8424 Bay Point Dr, Las Vegas, NV 89128",Las-Vegas,15/12/2023,4,3,2551
+374999,"4607 Baxter Pl, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2,1472
+385000,"6955 Grassy Knoll St, Las Vegas, NV 89147",Las-Vegas,15/12/2023,4,2,1684
+180000,"6077 Glacier Ave, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1560
+295000,"101 Breezy Tree Ct #104, Las Vegas, NV 89145",Las-Vegas,15/12/2023,2,2,1154
+345000,"2195 Buffalo Run Ave, Las Vegas, NV 89123",Las-Vegas,15/12/2023,3,2.5,1176
+255000,"5368 River Glen Dr #345, Las Vegas, NV 89103",Las-Vegas,15/12/2023,3,2,1205
+485000,"7040 Baza Ave, Las Vegas, NV 89113",Las-Vegas,15/12/2023,4,3,2118
+179900,"2981 Country Manor Ln #2, Las Vegas, NV 89115",Las-Vegas,15/12/2023,2,2,1015
+305000,"2228 Theresa Ave, Las Vegas, NV 89101",Las-Vegas,15/12/2023,3,2,1056
+395000,"10774 Avenzano St, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2.5,1909
+249990,"421 Fallwood Ln, Las Vegas, NV 89107",Las-Vegas,15/12/2023,2,2,1250
+540000,"10170 Splendor Ridge Ave, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,2,2113
+237000,"2300 E Silverado Ranch Blvd #2191, Las Vegas, NV 89183",Las-Vegas,15/12/2023,2,2,1089
+459900,"268 Fairway Woods Dr, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2.5,1829
+999999,"2317 Timberline Way, Las Vegas, NV 89117",Las-Vegas,15/12/2023,4,4.5,3663
+372900,"6357 Venus Vale Ct, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1256
+314999,"904 Stanley Ave, North Las Vegas, NV 89030",Las-Vegas,15/12/2023,3,2,1454
+439000,"9932 Arbuckle Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1533
+998000,"4182 Solace St, Las Vegas, NV 89135",Las-Vegas,15/12/2023,3,3.5,2461
+679999,"2593 Evolutionary Ln, Las Vegas, NV 89138",Las-Vegas,15/12/2023,4,3.5,2334
+455000,"4546 Wyncrest Ave, Las Vegas, NV 89115",Las-Vegas,15/12/2023,4,3,2607
+299900,"10181 Deerfield Beach Ave #201, Las Vegas, NV 89129",Las-Vegas,15/12/2023,2,2,1280
+260000,"9303 Gilcrease Ave #1220, Las Vegas, NV 89149",Las-Vegas,15/12/2023,2,2,1121
+515000,"9489 Logan Ridge Ct, Las Vegas, NV 89139",Las-Vegas,15/12/2023,4,2.5,2290
+550000,"8716 Wintry Garden Ave, Las Vegas, NV 89134",Las-Vegas,15/12/2023,3,2.5,1820
+479900,"10518 Broadhead Ct, Las Vegas, NV 89135",Las-Vegas,15/12/2023,3,2.5,1698
+499900,"6801 Armistead St, Las Vegas, NV 89149",Las-Vegas,15/12/2023,4,2.5,2062
+578500,"6060 Neptuno St, Las Vegas, NV 89113",Las-Vegas,15/12/2023,3,2,1631
+365000,"1504 Pacific St, Las Vegas, NV 89104",Las-Vegas,15/12/2023,3,2,1381
+360000,"5665 Mahogany Run Pl, Las Vegas, NV 89122",Las-Vegas,15/12/2023,3,2,1436
+245000,"706 Fernwood Ln Unit None, Las Vegas, NV 89169",Las-Vegas,15/12/2023,3,1.5,1462
+179000,"3354 Ewa Beach Dr, Las Vegas, NV 89122",Las-Vegas,15/12/2023,2,2,1248
+215000,"6800 E Lake Mead Blvd #1072, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1084
+599999,"10660 Glowing Dawn Ave, Las Vegas, NV 89135",Las-Vegas,15/12/2023,2,2.5,1782
+265000,"3395 Allegheny Dr, Las Vegas, NV 89122",Las-Vegas,15/12/2023,3,2,1288
+450000,"6243 Fairbanks Rd, Las Vegas, NV 89103",Las-Vegas,15/12/2023,4,3,1711
+235000,"2200 S Fort Apache Rd #1132, Las Vegas, NV 89117",Las-Vegas,15/12/2023,2,2,1053
+270000,"5012 S Rainbow Blvd #102, Las Vegas, NV 89118",Las-Vegas,15/12/2023,2,2,1091
+635000,"4190 Matina Bella St, Las Vegas, NV 89135",Las-Vegas,15/12/2023,2,2,1452
+349900,"4060 Springhill Ave, Las Vegas, NV 89121",Las-Vegas,15/12/2023,3,2,1288
+324900,"10524 Autumn Pine Ave #202, Las Vegas, NV 89144",Las-Vegas,15/12/2023,2,2,1186
+405000,"3502 Anthony Dr, Las Vegas, NV 89121",Las-Vegas,15/12/2023,5,3,1972
+374999,"3300 Marionette Ave, Las Vegas, NV 89101",Las-Vegas,15/12/2023,4,2,1511
+530000,"5965 Ascero St, Las Vegas, NV 89113",Las-Vegas,15/12/2023,3,2,1852
+316000,"3225 Symphony Dr, Las Vegas, NV 89146",Las-Vegas,15/12/2023,2,2.5,1149
+517000,"4926 Guysborough St, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2.5,2174
+449999,"10620 Allthorn Ave, Las Vegas, NV 89144",Las-Vegas,15/12/2023,2,2,1396
+365000,"10012 Woodhouse Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2,1105
+625000,"8030 Foxfield Springs St, Las Vegas, NV 89166",Las-Vegas,15/12/2023,4,3.5,2519
+620000,"1512 Cobb Ln, Las Vegas, NV 89101",Las-Vegas,15/12/2023,8,,3060
+439900,"1704 Pacific Breeze Dr, Las Vegas, NV 89144",Las-Vegas,15/12/2023,2,2,1694
+4399999,"3750 Las Vegas Blvd #3604, Las Vegas, NV 89158",Las-Vegas,15/12/2023,2,2.5,2563
+829995,"8973 Rolling Pietra St, Las Vegas, NV 89166",Las-Vegas,15/12/2023,5,4.5,3272
+374400,"1687 Raspberry Hill Rd, Las Vegas, NV 89142",Las-Vegas,15/12/2023,4,3,2007
+449900,"6961 Emerald Springs Ln Unit NA, Las Vegas, NV 89113",Las-Vegas,15/12/2023,2,2,1180
+315000,"8725 W Flamingo Rd #239, Las Vegas, NV 89147",Las-Vegas,15/12/2023,2,2,1038
+233000,"5138 S Jones Blvd #105, Las Vegas, NV 89118",Las-Vegas,15/12/2023,2,2,920
+420000,"4228 Timpani Dr, Las Vegas, NV 89110",Las-Vegas,15/12/2023,3,2.5,1423
+395000,"1446 Bourne Valley Ct, Las Vegas, NV 89123",Las-Vegas,15/12/2023,4,2.5,1994
+209900,"1498 Tamareno Cir Unit B, Las Vegas, NV 89119",Las-Vegas,15/12/2023,2,2,1116
+735000,"9153 Claretta Dr, Las Vegas, NV 89129",Las-Vegas,15/12/2023,6,3,3387
+610000,"4108 Dream Day St, Las Vegas, NV 89129",Las-Vegas,15/12/2023,5,3,3723
+430000,"1452 Bourne Valley Ct, Las Vegas, NV 89123",Las-Vegas,15/12/2023,4,3,1806
+460000,"10832 Cather Ave, Las Vegas, NV 89166",Las-Vegas,15/12/2023,3,2.5,2264
+276000,"10245 S Maryland Pkwy #160, Las Vegas, NV 89183",Las-Vegas,15/12/2023,3,2,1188
+699000,"11149 Vivid Ave, Las Vegas, NV 89144",Las-Vegas,15/12/2023,4,3,2100
+335000,"6750 Hetherbrae Ln, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2,1198
+412860,"5668 Beguiling Falls St Lot 53, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2,1371
+524900,"10932 Hunting Hawk Rd, Las Vegas, NV 89179",Las-Vegas,15/12/2023,3,2.5,2456
+369000,"3736 Archer St, Las Vegas, NV 89108",Las-Vegas,15/12/2023,2,2.5,1597
+450000,"8935 Midnight Garden Ct, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2.5,1847
+625000,"9108 Vista Greens Way #105, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2.5,2212
+669900,"10151 Meriweather Grove Ave, Las Vegas, NV 89166",Las-Vegas,15/12/2023,3,3,2535
+324999,"5800 Jerry Dr, Las Vegas, NV 89108",Las-Vegas,15/12/2023,4,2,1334
+359999,"270 E Flamingo Rd #326, Las Vegas, NV 89169",Las-Vegas,15/12/2023,2,2,974
+574999,"2033 Scenic Sunrise Dr, Las Vegas, NV 89117",Las-Vegas,15/12/2023,3,2,1949
+415000,"1165 Panorama Heights St, Las Vegas, NV 89110",Las-Vegas,15/12/2023,3,2,1975
+645000,"7524 Cathedral Canyon Ct, Las Vegas, NV 89129",Las-Vegas,15/12/2023,6,3,3828
+349990,"20 Barbara Ln #85, Las Vegas, NV 89183",Las-Vegas,15/12/2023,2,2,1051
+224900,"2750 S Durango Dr #2014, Las Vegas, NV 89117",Las-Vegas,15/12/2023,2,2,965
+620000,"2013 Canyon Breeze Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,4,2.5,2522
+399900,"1404 Phillips Ave, Las Vegas, NV 89104",Las-Vegas,15/12/2023,5,,1826
+430000,"5433 Honey Mesquite Ln, Las Vegas, NV 89130",Las-Vegas,15/12/2023,3,2,1838
+1299999,"11539 Cantina Terlano Pl, Las Vegas, NV 89141",Las-Vegas,15/12/2023,5,3.5,4921
+435000,"825 Ann Dr, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2,1549
+375000,"9830 Hanover Grove Ave, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,2.5,1739
+545000,"8871 Oceanside Slopes Ave, Las Vegas, NV 89178",Las-Vegas,15/12/2023,5,3,2572
+430000,"7520 Bowles Dr, Las Vegas, NV 89130",Las-Vegas,15/12/2023,3,2.5,1261
+450000,"11231 Hidden Peak Ave #212, Las Vegas, NV 89135",Las-Vegas,15/12/2023,2,2.5,1431
+280000,"2097 Clancy St, Las Vegas, NV 89156",Las-Vegas,15/12/2023,3,2.5,1344
+1100000,"10309 Saugus Dr, Las Vegas, NV 89134",Las-Vegas,15/12/2023,2,2.5,2577
+495000,"10089 Dragonfly Wing St, Las Vegas, NV 89183",Las-Vegas,15/12/2023,4,2.5,1941
+385000,"4304 Fortune Ave, Las Vegas, NV 89107",Las-Vegas,15/12/2023,3,2,1612
+415000,"900 Eugene Cernan St, Las Vegas, NV 89145",Las-Vegas,15/12/2023,3,2,1620
+313000,"79 E Agate Ave #207, Las Vegas, NV 89123",Las-Vegas,15/12/2023,2,2,1198
+641415,"3972 Nivosus Ave, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2,1910
+637653,"3948 Nivosus Ave, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2,1830
+654642,"3960 Nivosus Ave, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2,1930
+553283,"6476 Peace Dove Ave, Las Vegas, NV 89130",Las-Vegas,15/12/2023,3,2,1930
+429500,"5021 River Splash Ave, Las Vegas, NV 89131",Las-Vegas,15/12/2023,4,2,1584
+395000,"8925 W Flamingo Rd #310, Las Vegas, NV 89147",Las-Vegas,15/12/2023,2,2,1539
+350000,"6255 W Arby Ave #144, Las Vegas, NV 89118",Las-Vegas,15/12/2023,3,2.5,1696
+475000,"1519 San Pedro Ave, Las Vegas, NV 89104",Las-Vegas,15/12/2023,3,2,1530
+535000,"1903 Sky Flower Ct, Las Vegas, NV 89123",Las-Vegas,15/12/2023,4,2.5,2140
+399999,"5169 Gilleran Ave, Las Vegas, NV 89139",Las-Vegas,15/12/2023,2,2.5,1298
+1099000,"6467 Wild Blue Ct, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,3.5,3147
+625000,"2005 Golden Trumpet Ave, Las Vegas, NV 89123",Las-Vegas,15/12/2023,5,3,2968
+869900,"1105 Enderly Ln, Las Vegas, NV 89144",Las-Vegas,15/12/2023,5,3,2112
+530000,"175 Short Ruff Way, Las Vegas, NV 89148",Las-Vegas,15/12/2023,4,2.5,2119
+749999,"10130 Walhalla Plateau Ct, Las Vegas, NV 89148",Las-Vegas,15/12/2023,5,3,3034
+514999,"8737 Harvest Valley Ave, Las Vegas, NV 89129",Las-Vegas,15/12/2023,4,2.5,1909
+1099000,"9103 Alta Dr #1406, Las Vegas, NV 89145",Las-Vegas,15/12/2023,2,2.5,2137
+529888,"8152 Cheerful Valley Ave, Las Vegas, NV 89178",Las-Vegas,15/12/2023,3,2.5,2142
+450000,"2300 Dune Dr, Las Vegas, NV 89106",Las-Vegas,15/12/2023,6,2,1670
+482000,"2982 Gunnery Forge St, Las Vegas, NV 89156",Las-Vegas,15/12/2023,5,4,2642
+350000,"3649 Castille St, Las Vegas, NV 89121",Las-Vegas,15/12/2023,3,2.5,2246
+435000,"5501 Whiteleaf Ct, Las Vegas, NV 89149",Las-Vegas,15/12/2023,2,2,1741
+799999,"2877 Paradise Rd #302, Las Vegas, NV 89109",Las-Vegas,15/12/2023,2,3,2805
+355000,"813 Peachy Canyon Cir #203, Las Vegas, NV 89144",Las-Vegas,15/12/2023,2,2,1282
+375000,"1200 James St, Las Vegas, NV 89101",Las-Vegas,15/12/2023,3,2,1161
+375000,"3644 Indios Ave, Las Vegas, NV 89121",Las-Vegas,15/12/2023,3,3,1620
+465000,"4532 Cabo Ln, Las Vegas, NV 89121",Las-Vegas,15/12/2023,3,2,1660
+369000,"5421 Saddle Peak Trl, Las Vegas, NV 89118",Las-Vegas,15/12/2023,3,2.5,1468
+400000,"290 Lyra Ln, Las Vegas, NV 89110",Las-Vegas,15/12/2023,4,3,1620
+250000,"7901 Greycrest Ct #102, Las Vegas, NV 89145",Las-Vegas,15/12/2023,2,2,1168
+429000,"8255 Las Vegas Blvd #1705, Las Vegas, NV 89123",Las-Vegas,15/12/2023,2,2,1338
+450000,"5494 Vicarage Way, Las Vegas, NV 89141",Las-Vegas,15/12/2023,3,2,1584
+360000,"8748 Villa Monica Ln, Las Vegas, NV 89147",Las-Vegas,15/12/2023,2,2,1098
+399000,"9477 Medford Falls Ave, Las Vegas, NV 89149",Las-Vegas,15/12/2023,3,2.5,1715
+323000,"4198 Wendy Ln, Las Vegas, NV 89115",Las-Vegas,15/12/2023,4,2,1512
+498000,"7304 Savannah Falls St, Las Vegas, NV 89131",Las-Vegas,15/12/2023,4,3,2771
+400000,"9000 Tiger Shale Way, Las Vegas, NV 89123",Las-Vegas,15/12/2023,3,2,1477
+225000,"1400 Jamielinn Ln #104, Las Vegas, NV 89110",Las-Vegas,15/12/2023,3,2,1197
+455000,"7465 Sunspot Dr, Las Vegas, NV 89128",Las-Vegas,15/12/2023,4,3,1869
+250000,"3131 Key Largo Dr #104, Las Vegas, NV 89120",Las-Vegas,15/12/2023,2,2,987
+498000,"9727 Dieterich Ave, Las Vegas, NV 89148",Las-Vegas,15/12/2023,4,3,2415
+519000,"7036 Azure Beach St, Las Vegas, NV 89148",Las-Vegas,15/12/2023,3,3.5,1770
+367000,"9797 Hickory Crest Ct, Las Vegas, NV 89147",Las-Vegas,15/12/2023,3,2,1424
+468828,"4540 E Flamingo Rd, Las Vegas, NV 89121",Las-Vegas,15/12/2023,4,3,2229
+400000,"5381 Supai Dr, Las Vegas, NV 89103",Las-Vegas,15/12/2023,4,2,1902
+1614900,"10253 Green Ember Dr, Las Vegas, NV 89135",Las-Vegas,15/12/2023,4,3.5,3396
+275000,"8555 W Russell Rd #1034, Las Vegas, NV 89113",Las-Vegas,15/12/2023,2,2,1134
+679988,"10118 Cache River Ct, Las Vegas, NV 89141",Las-Vegas,15/12/2023,5,3.5,3971
+329900,"5455 Birchbrook Ct, Las Vegas, NV 89120",Las-Vegas,15/12/2023,2,2,1713
+545000,"272 Dudley St #6, Boston, MA 02119",Boston,15/12/2023,2,1.5,1091
+2100000,"34 Perthshire Rd, Boston, MA 02135",Boston,15/12/2023,11,6,4223
+599999,"44 Linwood #3, Boston, MA 02119",Boston,15/12/2023,2,2,1095
+2500000,"722 E 6th St, Boston, MA 02127",Boston,15/12/2023,8,6,3680
+2000000,"550 E 3rd St, Boston, MA 02127",Boston,15/12/2023,6,3,3078
+697000,"51 Walkhill St #1, Boston, MA 02130",Boston,15/12/2023,2,2,1065
+1500000,"41 Seaverns Ave #41, Boston, MA 02130",Boston,15/12/2023,4,3.5,2712
+859000,"19 Clapp St #8, Boston, MA 02125",Boston,15/12/2023,2,2,1354
+795000,"738 Hyde Park Ave, Boston, MA 02131",Boston,15/12/2023,4,3,2043
+900000,"229-231 Main St #3, Boston, MA 02129",Boston,15/12/2023,2,1.5,1000
+829999,"610 Rutherford Ave #301, Boston, MA 02129",Boston,15/12/2023,2,2,1267
+4695000,"240 Devonshire St #4301, Boston, MA 02110",Boston,15/12/2023,2,2.5,2190
+645000,"8 Norris Rd, Boston, MA 02136",Boston,15/12/2023,3,2.5,2082
+2595000,"1 Franklin #2304, Boston, MA 02110",Boston,15/12/2023,2,2,1500
+1874900,"21 Linden St, Boston, MA 02127",Boston,15/12/2023,4,3,2478
+1900000,"2 Lawrence St, Boston, MA 02116",Boston,15/12/2023,4,2,1910
+1100000,"34 Perthshire Rd #2, Boston, MA 02135",Boston,15/12/2023,5,3,2118
+999000,"34 Perthshire Rd #1, Boston, MA 02135",Boston,15/12/2023,5,3,2105
+899000,"39 R Middle St, Boston, MA 02127",Boston,15/12/2023,4,1.5,1267
+1190000,"15 Jess St, Boston, MA 02130",Boston,15/12/2023,5,5,2523
+530000,"234 Riverside Dr, Dedham, MA 02026",Boston,15/12/2023,3,2,1556
+475000,"59 Old Morton St Unit A, Boston, MA 02126",Boston,15/12/2023,3,1.5,1130
+699000,"425 Lagrange St #109, Boston, MA 02132",Boston,15/12/2023,2,2,954
+2200000,"17 M St, Boston, MA 02127",Boston,15/12/2023,8,4,3297
+649000,"67 Church St #1, Boston, MA 02122",Boston,15/12/2023,2,2.5,1260
+509000,"57 Collins St, Boston, MA 02136",Boston,15/12/2023,3,1.5,1305
+2875000,"240 Devonshire St #4112, Boston, MA 02110",Boston,15/12/2023,2,2.5,1636
+2949000,"5 Saint Charles St, Boston, MA 02116",Boston,15/12/2023,3,3,2500
+599900,"101 Saratoga St Unit -, Boston, MA 02128",Boston,15/12/2023,2,2,862
+649000,"5 Rice St #4, Boston, MA 02122",Boston,15/12/2023,2,2,899
+1149000,"435 East Third Unit TWO, Boston, MA 02127",Boston,15/12/2023,2,2.5,1425
+849900,"580 E Broadway #4, Boston, MA 02127",Boston,15/12/2023,2,2,977
+739000,"131 Eliot St #303, Milton, MA 02186",Boston,15/12/2023,2,2,1173
+2350000,"130 Arlington St, Boston, MA 02116",Boston,15/12/2023,3,2.5,1793
+899000,"583B Baker St Unit 583B, Boston, MA 02132",Boston,15/12/2023,3,2.5,1600
+829000,"19-23 Clapp St #7, Boston, MA 02125",Boston,15/12/2023,2,2,1350
+2479000,"150 Seaport Blvd Unit 6B, Boston, MA 02210",Boston,15/12/2023,2,2.5,1485
+605900,"172 Newton St #1, Boston, MA 02135",Boston,15/12/2023,3,2,1053
+2125000,"1 Charles Unit 6C, Boston, MA 02116",Boston,15/12/2023,2,2.5,1497
+1375000,"77 Pond Ave #1402, Brookline, MA 02445",Boston,15/12/2023,3,2,1570
+579900,"31 Wabon #1, Boston, MA 02121",Boston,15/12/2023,3,2.5,1237
+2350000,"130A Arlington St Unit A, Boston, MA 02116",Boston,15/12/2023,3,2.5,1793
+689000,"13 Ruthven St #1, Boston, MA 02121",Boston,15/12/2023,4,3,2143
+729000,"324 Dorcester St #3, Boston, MA 02127",Boston,15/12/2023,2,2,1018
+599000,"995 Dorchester Ave #2, Boston, MA 02125",Boston,15/12/2023,3,2,971
+1125000,"18 Evans St, Boston, MA 02124",Boston,15/12/2023,4,3.5,2927
+525000,"18 Evans #1, Boston, MA 02124",Boston,15/12/2023,2,1.5,1684
+599000,"18 Evans #2, Boston, MA 02124",Boston,15/12/2023,2,2,1784
+549999,"86 Bernard St #1, Boston, MA 02124",Boston,15/12/2023,9,2.5,2295
+4889000,"120 Emerson St, Boston, MA 02127",Boston,15/12/2023,9,12.5,5000
+825000,"166 Salem Unit A, Boston, MA 02113",Boston,15/12/2023,2,2,839
+1050000,"417 Bunker Hill St #2, Boston, MA 02129",Boston,15/12/2023,3,2,1387
+669999,"52 Withington #8, Boston, MA 02124",Boston,15/12/2023,3,2,1181
+1095000,"480 Commercial St Unit 5B, Boston, MA 02109",Boston,15/12/2023,2,1.5,1073
+899000,"99 Tremont St #302, Boston, MA 02135",Boston,15/12/2023,2,2,1121
+2099000,"15 Pond, Boston, MA 02130",Boston,15/12/2023,11,3,4137
+2150000,"68 Harvest St, Boston, MA 02125",Boston,15/12/2023,10,6,3606
+779000,"57 Falcon St, Boston, MA 02128",Boston,15/12/2023,6,2,2356
+749000,"13 Mercer St #3, Boston, MA 02127",Boston,15/12/2023,2,2,1050
+8995000,"260-262 Commonwealth Ave Unit 1A-G2, Boston, MA 02116",Boston,15/12/2023,4,4.5,3084
+5650000,"260-262 Commonwealth Ave Unit 1B, Boston, MA 02116",Boston,15/12/2023,2,2.5,1841
+11500000,"260-262 Commonwealth Ave #3, Boston, MA 02116",Boston,15/12/2023,4,3.5,3325
+2995000,"191 West Springfield St, Boston, MA 02118",Boston,15/12/2023,4,4,2959
+1785000,"9 Monument St #2, Boston, MA 02129",Boston,15/12/2023,4,3.5,1908
+2750000,"210 West Springfield St #1, Boston, MA 02118",Boston,15/12/2023,3,3.5,2244
+685000,"109 Thompson St, Boston, MA 02136",Boston,15/12/2023,4,1.5,1644
+4100000,"63 Mount Vernon St #4, Boston, MA 02108",Boston,15/12/2023,3,2.5,2172
+1975000,"19 O St, Boston, MA 02127",Boston,15/12/2023,8,6,2658
+1275000,"800 East 7th St Unit 3-PH, Boston, MA 02127",Boston,15/12/2023,3,2,1587
+4299900,"100 Shawmut Ave Ph -C, Boston, MA 02118",Boston,15/12/2023,3,2.5,2726
+560000,"128 Anawan Ave, Boston, MA 02132",Boston,15/12/2023,4,1.5,2000
+999990,"99 Pond Ave Unit D802, Brookline, MA 02445",Boston,15/12/2023,2,2,1855
+950000,"29 Charles Park Rd #29, Boston, MA 02132",Boston,15/12/2023,3,2.5,1853
+1375000,"163 2nd West St, Boston, MA 02127",Boston,15/12/2023,3,3.5,1671
+799000,"173 Maverick Ph 304, Boston, MA 02128",Boston,15/12/2023,2,2,960
+1699900,"100 Shawmut Ave Unit 804, Boston, MA 02118",Boston,15/12/2023,2,2,1396
+5900000,"133 Seaport Blvd Ph 3C, Boston, MA 02210",Boston,15/12/2023,3,3.5,2409
+430000,"265 Norfolk St Unit D, Boston, MA 02124",Boston,15/12/2023,3,1.5,1349
+7399000,"111 Pembroke St, Boston, MA 02118",Boston,15/12/2023,5,4,5398
+3795000,"9 Columbus Sq #2, Boston, MA 02116",Boston,15/12/2023,4,4.5,2779
+6295000,"9 Columbus Sq, Boston, MA 02118",Boston,15/12/2023,7,7,4755
+1599000,"14 N Bennet St #6, Boston, MA 02113",Boston,15/12/2023,2,2.5,1187
+1519000,"14 N Bennet St #4, Boston, MA 02113",Boston,15/12/2023,2,2,1242
+635000,"65 Falcon St #1, Boston, MA 02128",Boston,15/12/2023,2,2,1035
+1695000,"485 Harrison Ave #303, Boston, MA 02118",Boston,15/12/2023,2,3,2020
+729000,"425 Lagrange St #307, Boston, MA 02132",Boston,15/12/2023,2,2,983
+695000,"425 Lagrange St #305, Boston, MA 02132",Boston,15/12/2023,2,2,937
+2825000,"240 Devonshire St #5310, Boston, MA 02110",Boston,15/12/2023,2,2,1405
+609900,"102 Moreland, Boston, MA 02119",Boston,15/12/2023,5,2.5,1329
+794900,"76 Elm St Unit G15, Boston, MA 02130",Boston,15/12/2023,2,2,1320
+649000,"169 Maverick #1, Boston, MA 02128",Boston,15/12/2023,3,2,950
+1249000,"21 Parker St, Boston, MA 02129",Boston,15/12/2023,6,3,2970
+999000,"519 E 2nd St #201, Boston, MA 02127",Boston,15/12/2023,2,2,971
+619000,"1202 Lagrange St #1202, Boston, MA 02467",Boston,15/12/2023,2,2.5,2100
+1695000,"2 Avery St Unit 27G, Boston, MA 02111",Boston,15/12/2023,2,2,1257
+1799900,"532-34 E Third St #6, Boston, MA 02127",Boston,15/12/2023,3,2,2123
+850000,"19 Mount Ida Rd, Boston, MA 02122",Boston,15/12/2023,6,1.5,2831
+849500,"9 Robken Rd, Boston, MA 02131",Boston,15/12/2023,3,1.5,1224
+1275000,"327 Commonwealth #1, Boston, MA 02115",Boston,15/12/2023,2,1.5,1300
+1895000,"7 Maynard Pl, Cambridge, MA 02138",Boston,15/12/2023,3,2.5,1900
+2720000,"65 E India Row Unit PHB, Boston, MA 02110",Boston,15/12/2023,2,2.5,1635
+2050000,"9 Monument St #9, Boston, MA 02129",Boston,15/12/2023,4,5.5,2465
+3835000,"9 Monument St, Boston, MA 02129",Boston,15/12/2023,8,9,4425
+745000,"20 Ufford St, Boston, MA 02124",Boston,15/12/2023,4,2,2500
+4150000,"240 Devonshire St #3906, Boston, MA 02110",Boston,15/12/2023,2,2.5,1755
+3780000,"240 Devonshire St #5708, Boston, MA 02110",Boston,15/12/2023,2,2.5,1667
+1950000,"197 Eighth St Ph 12, Boston, MA 02129",Boston,15/12/2023,2,2.5,1580
+575000,"19-21 Standard St #2, Boston, MA 02126",Boston,15/12/2023,3,2,1600
+1899900,"880 E 2nd St, Boston, MA 02127",Boston,15/12/2023,3,3,2331
+899000,"42 Dorset St #1, Boston, MA 02125",Boston,15/12/2023,3,3,2005
+1100000,"682-684 E 5th St, Boston, MA 02127",Boston,15/12/2023,3,2,1741
+1099000,"44 Dorset St #2, Boston, MA 02125",Boston,15/12/2023,4,3,1877
+639900,"8 Beram Ave #8, Boston, MA 02131",Boston,15/12/2023,3,3,1454
+1050000,"1799 River St, Boston, MA 02136",Boston,15/12/2023,6,4,2162
+2550000,"165-167 W 2nd St, Boston, MA 02127",Boston,15/12/2023,6,6,3400
+1350000,"474 E 7th, Boston, MA 02127",Boston,15/12/2023,4,2.5,2252
+699999,"60 Marion St, Boston, MA 02128",Boston,15/12/2023,4,1.5,1800
+1215000,"47 Playstead, Newton, MA 02458",Boston,15/12/2023,4,3.5,2000
+850000,"32 Williams #1, Boston, MA 02119",Boston,15/12/2023,2,3,1800
+719000,"121 E Cottage St #8, Boston, MA 02125",Boston,15/12/2023,2,2,1588
+799000,"9 Mercer St #1, Boston, MA 02127",Boston,15/12/2023,2,2,1014
+12500000,"975 Memorial Dr #1008, Cambridge, MA 02138",Boston,15/12/2023,4,3.5,4095
+1895000,"36 Brookledge St, Boston, MA 02121",Boston,15/12/2023,14,5,5595
+9475000,"300 Pier 4 Blvd Unit PHG, Boston, MA 02210",Boston,15/12/2023,3,3.5,2553
+1100000,"3 Ballou Ave, Boston, MA 02124",Boston,15/12/2023,6,3,4410
+1995000,"152 Trenton St, Boston, MA 02128",Boston,15/12/2023,9,6,3647
+13900000,"2 Commonwealth Ave Unit 15F, Boston, MA 02116",Boston,15/12/2023,3,2.5,3657
+1590000,"45 Province St #1105, Boston, MA 02108",Boston,15/12/2023,2,2,1291
+769000,"20 Ferncroft Rd, Boston, MA 02132",Boston,15/12/2023,3,1.5,1325
+3475000,"1 Franklin #3810, Boston, MA 02110",Boston,15/12/2023,2,2.5,1745
+2800000,"55 Lagrange Ph 21D, Boston, MA 02116",Boston,15/12/2023,2,2,1268
+1695000,"55 Lagrange #1404, Boston, MA 02116",Boston,15/12/2023,2,2,1041
+1350000,"55 Lagrange #504, Boston, MA 02116",Boston,15/12/2023,2,2,1041
+7500000,"360 Newbury St Ph 810, Boston, MA 02115",Boston,15/12/2023,2,2,2798
+799000,"480 West Broadway #202, Boston, MA 02127",Boston,15/12/2023,2,1.5,1050
+5055000,"240 Devonshire St #5506, Boston, MA 02110",Boston,15/12/2023,2,2.5,1755
+4425000,"240 Devonshire St #4802, Boston, MA 02110",Boston,15/12/2023,2,2.5,1920
+4750000,"240 Devonshire St #5812, Boston, MA 02110",Boston,15/12/2023,3,3,1989
+1999999,"241-243 Woodrow Ave, Boston, MA 02124",Boston,15/12/2023,16,6,5973
+2100000,"67 Old Harbor St, Boston, MA 02127",Boston,15/12/2023,8,3,3780
+739000,"131 Eliot St #202, Milton, MA 02186",Boston,15/12/2023,2,2,1197
+739000,"131 Eliot St #204, Milton, MA 02186",Boston,15/12/2023,2,2,1190
+769000,"19-23 Clapp St #4, Boston, MA 02125",Boston,15/12/2023,2,2,1248
+1390000,"170 Tremont St #1501, Boston, MA 02111",Boston,15/12/2023,3,2,1430
+1255000,"11821 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,3,3,2240
+1258000,"11804 W Holly Way, Valley Village, CA 91607",Los-Angeles,15/12/2023,2,3.5,2242
+998899,"3814 W 60th St, Los Angeles, CA 90043",Los-Angeles,15/12/2023,4,3,1996
