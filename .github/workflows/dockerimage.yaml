@@ -1,19 +1,25 @@
 name: Build and Publish Image to Docker hub
 
 on:
-  # workflow_dispatch:
+  workflow_dispatch:
+  push:
+    branches:
+      - dev-main
+    paths:
+      - 'ModelFiles/HousingModel.pkl'
   workflow_run:
     workflows: ["Model Training_Eval Workflow"]
     types:
       - completed
     branches:
       - dev-main
+      
 
 jobs:
   publish_images:
     name: build_publish_images
     # if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }} # on manual triggerr or only if previous workflow was successful
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    # if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:

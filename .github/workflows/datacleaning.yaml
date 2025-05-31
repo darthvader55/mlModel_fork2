@@ -39,12 +39,6 @@ jobs:
                     cd ModelFiles
                     python datacleaning.py
 
-                #- name: uploading cleaned data artifact
-                 # uses: actions/upload-artifact@v4
-                  #with:
-                   # name: cleaned-data
-                    #path: ModelFiles/cleaned_data.csv
-
 
                 - name: Commit cleaned data back to repo
                   run: |
