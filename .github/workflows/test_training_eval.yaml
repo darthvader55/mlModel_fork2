@@ -6,6 +6,9 @@ on:
     workflows: ["Data Cleaning Workflow"]
     types:
       - completed
+    branches:
+      - dev-main
+      
 
 jobs:
   test_modeltraining:

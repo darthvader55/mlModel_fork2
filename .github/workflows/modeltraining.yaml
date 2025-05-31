@@ -6,6 +6,8 @@ on:
     workflows: ["Unit Test for Model Training"]
     types:
       - completed
+    branches:
+      - dev-main
 
 jobs:
         training_eval:

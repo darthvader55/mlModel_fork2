@@ -6,6 +6,8 @@ on:
     workflows: ["Model Training_Eval Workflow"]
     types:
       - completed
+    branches:
+      - dev-main
 
 jobs:
   publish_images:
